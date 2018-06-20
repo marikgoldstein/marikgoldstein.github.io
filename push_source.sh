@@ -1,2 +1,2 @@
 git commit -am "."
-git push upstream source
+git push origin source
