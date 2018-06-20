@@ -1,4 +1,13 @@
-baseURL = "http://marikgoldstein.github.io/"
+baseURL = "https://rachitsingh.com"
 languageCode = "en-us"
-title = "Mark Goldstein"
+title = "Rachit Singh"
 theme = "onetwothree"
+pygmentsCodeFences = true
+pygmentsStyle = "autumn"
+
+[permalinks]
+    posts = "/:slug/"
+
+[params]
+    email = "rachitsingh@college.harvard.edu"
+    navigation = ["about.md", "links.md"]
