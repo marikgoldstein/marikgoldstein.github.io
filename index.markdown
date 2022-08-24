@@ -19,7 +19,7 @@ causal inference, and representation learning problems with a focus on machine l
 * Summer 2022: excited to be co-organizing the [ICML Workshop on Spurious Correlations, Invariance, and Stability](https://sites.google.com/view/scis-workshop/home) 
 on July 22. Looking forward to all the talks, and congrats to accepted authors!
 
-* Summer 2022: *Survival Mixture Density Networks*
+* Summer 2022: [Survival Mixture Density Networks](https://arxiv.org/pdf/2208.10759.pdf)
 accepted to Machine Learning for Healthcare Conference!
 
 * Summer 2022: glad to continue at Apple Health AI for the summer!
