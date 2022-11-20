@@ -22,6 +22,11 @@ causal inference, and representation learning problems with a focus on machine l
 
 ## News
 
+
+* Fall 2022: glad to give a guest lecture with my collaborator Raghav Singhal, on diffusions, at Alfredo and Yann's deep learning class at NYU
+
+* Fall 2022: glad to take part in, and give a short talk at, the Flatiron Institute's [workshop on Sampling, Transport, and Diffusions](https://sites.google.com/view/sampling-transport-diffusions/home)!
+
 * Summer 2022: excited to be co-organizing the [ICML Workshop on Spurious Correlations, Invariance, and Stability](https://sites.google.com/view/scis-workshop/home) 
 on July 22. Looking forward to all the talks, and congrats to accepted authors!
 
