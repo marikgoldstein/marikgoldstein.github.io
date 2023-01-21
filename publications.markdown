@@ -10,6 +10,10 @@ permalink: publications.html
 
 Here's my [google scholar](https://scholar.google.fr/citations?hl=en&user=-oKlMZUAAAAJ&view_op=list_works&sortby=pubdate)
 
+* Where to Diffuse, How to Diffuse and How to get back: Learning in Multivariate Diffusions (to be posted).
+International Conference on Learning Representations. 2023.
+Work by myself\*, Raghav Singhal\*, and Rajesh Ranganath.
+
 * [Survival Mixture Density Networks](https://arxiv.org/pdf/2208.10759.pdf).
 Machine Learning for Healthcare Conference. PMLR, 2022.
 Work by Xintian Han\*, myself, and Rajesh Ranganath.
