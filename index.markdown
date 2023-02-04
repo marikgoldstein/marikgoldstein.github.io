@@ -22,7 +22,7 @@ causal inference, and representation learning problems with a focus on machine l
 
 ## News
 
-* Jan 2023: a paper on extending diffusion models with auxiliary variables accepted to ICLR 2023! joint work with Raghav Singhal and Rajesh Ranganath.
+* Jan 2023: a paper on extending diffusion models by introducing auxiliary variables accepted to ICLR 2023! joint work with Raghav Singhal and Rajesh Ranganath.
 
 * Fall 2022: glad to give a guest lecture with my collaborator Raghav Singhal, on diffusions, at Alfredo and Yann's deep learning class at NYU
 
