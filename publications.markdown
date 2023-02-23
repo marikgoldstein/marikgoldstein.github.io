@@ -10,7 +10,7 @@ permalink: publications.html
 
 Here's my [google scholar](https://scholar.google.fr/citations?hl=en&user=-oKlMZUAAAAJ&view_op=list_works&sortby=pubdate)
 
-* Where to Diffuse, How to Diffuse and How to get back: Learning in Multivariate Diffusions (to be posted).
+* [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2302.07261).
 International Conference on Learning Representations. 2023.
 Work by myself\*, Raghav Singhal\*, and Rajesh Ranganath.
 
