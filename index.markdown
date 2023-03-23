@@ -22,6 +22,9 @@ causal inference, and representation learning problems with a focus on machine l
 
 ## News
 
+* March 2023: excited to hear that we will be running the second iteration of our ICML workshop on Spurious Correlations, Invariance, and Stability, at ICML 2023! More info
+and call for papers TBA soon!
+
 * Jan 2023: [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2302.07261) accepted to ICLR 2023! Joint work with Raghav Singhal and Rajesh Ranganath.
 
 * Fall 2022: glad to give a guest lecture with my collaborator Raghav Singhal, on diffusions, at Alfredo and Yann's deep learning class at NYU
