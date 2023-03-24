@@ -10,6 +10,10 @@ permalink: publications.html
 
 Here's my [google scholar](https://scholar.google.fr/citations?hl=en&user=-oKlMZUAAAAJ&view_op=list_works&sortby=pubdate)
 
+* [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://arxiv.org/abs/2303.12888).
+Preprint. March 2023.
+Work by Yuxuan Hu\*, myself, Rajesh Ranganath, and many others.
+
 * [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2302.07261).
 International Conference on Learning Representations. 2023.
 Work by myself\*, Raghav Singhal\*, and Rajesh Ranganath.
