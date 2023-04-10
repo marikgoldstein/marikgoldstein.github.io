@@ -22,7 +22,7 @@ causal inference, and representation learning problems with a focus on machine l
 
 ## News
 
-* Spring 2023: excited to hear that we will be running the second iteration of our ICML workshop on Spurious Correlations, Invariance, and Stability, at ICML 2023! More info
+* Spring 2023: We will be running the second iteration of our ICML workshop on Spurious Correlations, Invariance, and Stability, at ICML 2023! More info
 and call for papers TBA soon!
 
 <!--
