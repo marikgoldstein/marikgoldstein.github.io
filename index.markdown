@@ -22,7 +22,7 @@ causal inference, and representation learning problems with a focus on machine l
 
 ## News
 
-* July 2023: We are running the second iteration of our ICML workshop on Spurious Correlations, Invariance, and Stability, at ICML 2023! 
+* July 2023: We are running the second iteration of the workshop on Spurious Correlations, Invariance, and Stability at ICML 2023! 
 
 * Spring 2023: [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://arxiv.org/abs/2303.12888) (preprint), led by Yuxuan Hu!
 
