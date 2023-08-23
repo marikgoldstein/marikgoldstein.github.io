@@ -24,9 +24,9 @@ causal inference, and representation learning problems with a focus on machine l
 
 * July 2023: We are running the second iteration of our ICML workshop on Spurious Correlations, Invariance, and Stability, at ICML 2023! 
 
-* March 2023: [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://arxiv.org/abs/2303.12888) (preprint), led by Yuxuan Hu!
+* Spring 2023: [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://arxiv.org/abs/2303.12888) (preprint), led by Yuxuan Hu!
 
-* Jan 2023: [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2302.07261) accepted to ICLR 2023! Joint work with Raghav Singhal and Rajesh Ranganath.
+* Spring 2023: [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2302.07261) accepted to ICLR 2023! Joint work with Raghav Singhal and Rajesh Ranganath.
 
 * Fall 2022: glad to give a guest lecture with my collaborator Raghav Singhal, on diffusions, at Alfredo and Yann's deep learning class at NYU
 
