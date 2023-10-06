@@ -22,6 +22,9 @@ causal inference, and representation learning problems with a focus on machine l
 
 ## News
 
+* Oct 2023: Some work on choosing data-dependent base distributions for continuous-time flows! [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725) (preprint), work
+with Michael Albergo, Nick Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden!
+
 * July 2023: We are running the second iteration of the workshop on Spurious Correlations, Invariance, and Stability at ICML 2023! 
 
 * Spring 2023: [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://arxiv.org/abs/2303.12888) (preprint), led by Yuxuan Hu!

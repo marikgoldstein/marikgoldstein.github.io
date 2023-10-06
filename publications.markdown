@@ -10,6 +10,9 @@ permalink: publications.html
 
 Here's my [google scholar](https://scholar.google.fr/citations?hl=en&user=-oKlMZUAAAAJ&view_op=list_works&sortby=pubdate)
 
+* [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725).
+Preprint. October 2023. Work by me\*, Michael Albergo\*, Nick Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden.
+
 * [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://arxiv.org/abs/2303.12888).
 Preprint. March 2023.
 Work by Yuxuan Hu\*, myself, Rajesh Ranganath, and many others.
