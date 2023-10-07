@@ -22,12 +22,16 @@ causal inference, and representation learning problems with a focus on machine l
 
 ## News
 
-* Oct 2023: Some work on choosing data-dependent base distributions for continuous-time flows! [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725) (preprint), work
+* Fall 2023: glad to take part in, and give a short talk at, the Flatiron Institute’s upcoming second workshop on Measure Transport, Sampling, and Diffusions!
+
+* Fall 2023: Some work on choosing data-dependent base distributions for continuous-time flows! [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725) (preprint), work
 with Michael Albergo, Nick Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden!
 
-* July 2023: We are running the second iteration of the workshop on Spurious Correlations, Invariance, and Stability at ICML 2023! 
+* Summer 2023: glad to help out on the survival analysis / estimation side of things on [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451) (preprint), led by Hao Zhang!
 
-* Spring 2023: [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://arxiv.org/abs/2303.12888) (preprint), led by Yuxuan Hu!
+* Summer 2023: We are running the second iteration of the workshop on Spurious Correlations, Invariance, and Stability at ICML 2023! 
+
+* Spring 2023: glad to help out on the survival analysis /estimation side of things on [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://arxiv.org/abs/2303.12888) (preprint), led by Yuxuan Hu!
 
 * Spring 2023: [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2302.07261) accepted to ICLR 2023! Joint work with Raghav Singhal and Rajesh Ranganath.
 

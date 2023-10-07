@@ -13,6 +13,9 @@ Here's my [google scholar](https://scholar.google.fr/citations?hl=en&user=-oKlMZ
 * [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725).
 Preprint. October 2023. Work by me\*, Michael Albergo\*, Nick Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden.
 
+* [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451).
+Preprint. August 2023. Hao Zhang\*, Constantine Tarabanis, Neil Jethani, me, Silas Smith, Larry A. Chinitz, Rajesh Ranganath, Yindalon Aphinyanaphongs, and Lior Jankelson.
+
 * [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://arxiv.org/abs/2303.12888).
 Preprint. March 2023.
 Work by Yuxuan Hu\*, myself, Rajesh Ranganath, and many others.
