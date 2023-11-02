@@ -22,7 +22,7 @@ causal inference, and representation learning problems with a focus on machine l
 
 ## News
 
-* Fall 2023: glad to take part in, and give a short talk at, the Flatiron Institute’s upcoming second workshop on Measure Transport, Sampling, and Diffusions!
+* Fall 2023: glad to take part in the Flatiron Institute’s upcoming second workshop on Measure Transport, Sampling, and Diffusions!
 
 * Fall 2023: Some work on choosing data-dependent base distributions for continuous-time flows! [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725) (preprint), work
 with Michael Albergo, Nick Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden!
