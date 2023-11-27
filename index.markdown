@@ -87,6 +87,15 @@ Glad to be a part of it!
 
 * Summer 2019: I'm working in [Emtiyaz Khan's](https://emtiyaz.github.io/) Approximate Bayesian Inference group at [RIKEN AIP](https://aip.riken.jp/) in Tokyo!
 
+## Conferences I usually review for 
+- NeurIPS
+- ICML
+- ICLR
+- AAAI
+- AISTATS
+- CLeaR
+- misc workshops
+
 ## In a previous life
 
 I was a research assistant and teaching fellow in the computer science department 
