@@ -22,7 +22,14 @@ causal inference, and representation learning problems with a focus on machine l
 
 ## News
 
+
 * Fall 2023: glad to take part in the Flatiron Institute’s upcoming second workshop on Measure Transport, Sampling, and Diffusions!
+
+* Fall 2023: glad to teach a guest lecture on diffusions 
+for the NYU course, Inference and Representations, with prof. Yoav Wald.
+
+* Fall 2023: excited to talk about diffusions and flows at 
+at the [Decisions, Risk and Operations](https://business.columbia.edu/faculty/divisions/dro) ML reading group at Columbia, organied by Hongseok Namkoong, Kelly Zhang, Tiffany Cai, and others!
 
 * Fall 2023: Some work on choosing data-dependent base distributions for continuous-time flows! [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725) (preprint), work
 with Michael Albergo, Nick Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden!
