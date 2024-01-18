@@ -22,6 +22,10 @@ causal inference, and representation learning problems with a focus on machine l
 
 ## News
 
+* Jan 2024: [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)! A family
+of generative models built on Diffusion Transformers, but with a flexible stochastic interpolant
+process replacing the score based diffusion. Stable to train, performs well at each model size, 
+and many choices for sampling!
 
 * Fall 2023: glad to take part in the Flatiron Institute’s upcoming second workshop on Measure Transport, Sampling, and Diffusions!
 
