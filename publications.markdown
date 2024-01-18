@@ -10,6 +10,9 @@ permalink: publications.html
 
 Here's my [google scholar](https://scholar.google.fr/citations?hl=en&user=-oKlMZUAAAAJ&view_op=list_works&sortby=pubdate)
 
+* [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740).
+Preprint. January 2024. Work by Nanye Willis Ma\*, me, Michael Albergo, Nick Boffi, Eric Vanden-Eijnden, and Saining Xie.
+
 * [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725).
 Preprint. October 2023. Work by me\*, Michael Albergo\*, Nick Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden.
 
