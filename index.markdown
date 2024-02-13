@@ -22,6 +22,9 @@ causal inference, and representation learning problems with a focus on machine l
 
 ## News
 
+
+* Feb 2023: glad to help out on the survival analysis / estimation side of things on [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451), published in Journals of the American College of Cardiology, Clinical Electrophysiology. Led by Hao Zhang!
+
 * Jan 2024: [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)! A family
 of generative models built on Diffusion Transformers, but with a flexible stochastic interpolant
 process replacing the score based diffusion. Stable to train, performs well at each model size, 
@@ -37,8 +40,6 @@ the [Decisions, Risk and Operations](https://business.columbia.edu/faculty/divis
 
 * Fall 2023: Some work on choosing data-dependent base distributions for continuous-time flows! [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725) (preprint), work
 with Michael Albergo, Nick Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden!
-
-* Summer 2023: glad to help out on the survival analysis / estimation side of things on [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451) (preprint), led by Hao Zhang!
 
 * Summer 2023: We are running the second iteration of the workshop on Spurious Correlations, Invariance, and Stability at ICML 2023! 
 

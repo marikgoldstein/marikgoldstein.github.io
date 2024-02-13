@@ -17,7 +17,7 @@ Preprint. January 2024. Work by Nanye Willis Ma\*, me, Michael Albergo, Nick Bof
 Preprint. October 2023. Work by me\*, Michael Albergo\*, Nick Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden.
 
 * [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451).
-Preprint. August 2023. Hao Zhang\*, Constantine Tarabanis, Neil Jethani, me, Silas Smith, Larry A. Chinitz, Rajesh Ranganath, Yindalon Aphinyanaphongs, and Lior Jankelson.
+To appear in Journals of the American College of Cardiology, Clinical Electrophysiology. Hao Zhang\*, Constantine Tarabanis, Neil Jethani, me, Silas Smith, Larry A. Chinitz, Rajesh Ranganath, Yindalon Aphinyanaphongs, and Lior Jankelson.
 
 * [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://arxiv.org/abs/2303.12888).
 Preprint. March 2023.
