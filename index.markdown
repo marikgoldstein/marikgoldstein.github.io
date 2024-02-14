@@ -23,7 +23,7 @@ causal inference, and representation learning problems with a focus on machine l
 ## News
 
 
-* Feb 2023: glad to help out on the survival analysis / estimation side of things on [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451), published in Journals of the American College of Cardiology, Clinical Electrophysiology. Led by Hao Zhang!
+* Feb 2024: glad to help out on the survival analysis / estimation side of things on [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451), published in Journals of the American College of Cardiology, Clinical Electrophysiology. Led by Hao Zhang!
 
 * Jan 2024: [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)! A family
 of generative models built on Diffusion Transformers, but with a flexible stochastic interpolant
