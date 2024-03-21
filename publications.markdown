@@ -10,6 +10,10 @@ permalink: publications.html
 
 Here's my [google scholar](https://scholar.google.fr/citations?hl=en&user=-oKlMZUAAAAJ&view_op=list_works&sortby=pubdate)
 
+
+* [Probabilistic Forecasting with Stochastic Interpolants and F\"ollmer Processes](https://arxiv.org/abs/2403.13724).
+Preprint. March 2024. Work by Yifan Chen\*, me\*, Mengjian Hua\*, Michael S. Albergo, Nicholas M. Boffi, and Eric Vanden-Eijnden.
+
 * [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740).
 Preprint. January 2024. Work by Nanye Willis Ma\*, me, Michael Albergo, Nick Boffi, Eric Vanden-Eijnden, and Saining Xie.
 
