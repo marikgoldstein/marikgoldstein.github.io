@@ -23,6 +23,8 @@ causal inference, and representation learning problems with a focus on machine l
 ## News
 
 
+* March 2024: Looking forward to being a student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/), starting in May!
+
 * March 2024: glad to help out on the survival analysis / estimation side of things on [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuae037/7633877?utm_source=authortollfreelink&utm_campaign=ehjacc&utm_medium=email&guestAccessKey=6cc48bdf-d527-4bc1-ab47-a98c71cd0bcf), published in European Heart Journal. Acute Cardiovascular Care, March 2024. Also available on [arxiv](https://arxiv.org/abs/2303.12888). 
 
 * March 2024: some work on [probabilistic forecasting with stochastic interpolants and Föllmer processes](https://arxiv.org/abs/2403.13724)!
