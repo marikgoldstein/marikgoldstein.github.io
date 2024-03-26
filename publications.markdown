@@ -11,6 +11,8 @@ permalink: publications.html
 Here's my [google scholar](https://scholar.google.fr/citations?hl=en&user=-oKlMZUAAAAJ&view_op=list_works&sortby=pubdate)
 
 
+* [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuae037/7633877?utm_source=authortollfreelink&utm_campaign=ehjacc&utm_medium=email&guestAccessKey=6cc48bdf-d527-4bc1-ab47-a98c71cd0bcf). Published in European Heart Journal. Acute Cardiovascular Care, March 2024. Also available on [arxiv](https://arxiv.org/abs/2303.12888). Work by Yuxuan Hu\*, myself, Rajesh Ranganath, and many others.
+
 * [Probabilistic Forecasting with Stochastic Interpolants and Föllmer Processes](https://arxiv.org/abs/2403.13724).
 Preprint. March 2024. Work by Yifan Chen\*, me\*, Mengjian Hua\*, Michael S. Albergo, Nicholas M. Boffi, and Eric Vanden-Eijnden.
 
@@ -22,10 +24,6 @@ Preprint. October 2023. Work by me\*, Michael Albergo\*, Nick Boffi, Rajesh Rang
 
 * [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451).
 To appear in Journals of the American College of Cardiology, Clinical Electrophysiology. Hao Zhang\*, Constantine Tarabanis, Neil Jethani, me, Silas Smith, Larry A. Chinitz, Rajesh Ranganath, Yindalon Aphinyanaphongs, and Lior Jankelson.
-
-* [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://arxiv.org/abs/2303.12888).
-Preprint. March 2023.
-Work by Yuxuan Hu\*, myself, Rajesh Ranganath, and many others.
 
 * [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2302.07261).
 International Conference on Learning Representations. 2023.

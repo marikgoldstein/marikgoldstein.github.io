@@ -23,6 +23,8 @@ causal inference, and representation learning problems with a focus on machine l
 ## News
 
 
+* March 2024: glad to help out on the survival analysis / estimation side of things on [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuae037/7633877?utm_source=authortollfreelink&utm_campaign=ehjacc&utm_medium=email&guestAccessKey=6cc48bdf-d527-4bc1-ab47-a98c71cd0bcf), published in European Heart Journal. Acute Cardiovascular Care, March 2024. Also available on [arxiv](https://arxiv.org/abs/2303.12888). 
+
 * March 2024: some work on [probabilistic forecasting with stochastic interpolants and Föllmer processes](https://arxiv.org/abs/2403.13724)!
 Work with Yifan Chen, Mengjian Hua, Michael S. Albergo, Nicholas M. Boffi, and Eric Vanden-Eijnden.
 
@@ -45,8 +47,6 @@ the [Decisions, Risk and Operations](https://business.columbia.edu/faculty/divis
 with Michael Albergo, Nick Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden!
 
 * Summer 2023: We are running the second iteration of the workshop on Spurious Correlations, Invariance, and Stability at ICML 2023! 
-
-* Spring 2023: glad to help out on the survival analysis /estimation side of things on [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://arxiv.org/abs/2303.12888) (preprint), led by Yuxuan Hu!
 
 * Spring 2023: [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2302.07261) accepted to ICLR 2023! Joint work with Raghav Singhal and Rajesh Ranganath.
 
