@@ -10,6 +10,8 @@ permalink: publications.html
 
 Here's my [google scholar](https://scholar.google.fr/citations?hl=en&user=-oKlMZUAAAAJ&view_op=list_works&sortby=pubdate)
 
+* Does it really transport? A grounded validation of transportability and its application to EHR-based risk models for Coronary Artery Disease.
+Forthcoming, 2024. Work by Shreyas Bhave\*, Aahlad Puli\*, me\*, Mert Ketenci, Noémie Elhadad, Adler Perotte and Rajesh Ranganath.
 
 * [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuae037/7633877?utm_source=authortollfreelink&utm_campaign=ehjacc&utm_medium=email&guestAccessKey=6cc48bdf-d527-4bc1-ab47-a98c71cd0bcf). Published in European Heart Journal: Acute Cardiovascular Care, March 2024. Also available on [arxiv](https://arxiv.org/abs/2303.12888). Work by Yuxuan Hu\*, myself, Rajesh Ranganath, and many others.
 
