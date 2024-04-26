@@ -23,7 +23,9 @@ causal inference, and representation learning problems with a focus on machine l
 ## News
 
 
-* March 2024: Looking forward to being a student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/), starting in May!
+* Spring 2024: Looking forward to being a student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/), starting in May!
+
+* Henning Biermann Prize, 2024 (at NYU): This award honors the memory of Henning Biermann, a brilliant and much- loved Ph.D. student whose dedication to teaching, mentoring, and service enriched academic and extracurricular life for everyone in the department. The award is made to a Computer Science Ph.D. student who exemplifies this spirit through outstanding contributions to education or service to the department.
 
 * March 2024: glad to help out on the survival analysis / estimation side of things on [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuae037/7633877?utm_source=authortollfreelink&utm_campaign=ehjacc&utm_medium=email&guestAccessKey=6cc48bdf-d527-4bc1-ab47-a98c71cd0bcf), published in European Heart Journal: Acute Cardiovascular Care, March 2024. Also available on [arxiv](https://arxiv.org/abs/2303.12888). 
 
@@ -96,6 +98,9 @@ Glad to be a part of it!
 * Fall 2020: [X-CAL: Explicit Calibration for Survival Analysis](https://arxiv.org/pdf/2101.05346.pdf) accepted to NeurIPS 2020! 
 
 * Summer 2019: I'm working in [Emtiyaz Khan's](https://emtiyaz.github.io/) Approximate Bayesian Inference group at [RIKEN AIP](https://aip.riken.jp/) in Tokyo!
+
+* 2018: MacCracken Fellow, NYU Graduate School of Arts and Sciences, 2018. Five years of PhD funding.
+
 
 ## Conferences I usually review for 
 - NeurIPS
