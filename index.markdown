@@ -22,15 +22,19 @@ causal inference, and representation learning problems with a focus on machine l
 
 ## News
 
-
 * Spring 2024: Looking forward to being a student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/), starting in May!
 
-* Henning Biermann Prize, 2024 (at NYU): This award honors the memory of Henning Biermann, a brilliant and much- loved Ph.D. student whose dedication to teaching, mentoring, and service enriched academic and extracurricular life for everyone in the department. The award is made to a Computer Science Ph.D. student who exemplifies this spirit through outstanding contributions to education or service to the department.
+* honored to receive the Henning Biermann Prize at NYU Courant!
+
+* Spring 2024: accepted to ICML 2024: Denoising Score Matching For Nonlinear Diffusion Processes (coming soon)! with Raghav Singhal and
+Rajesh Ranganath.
+
+* Spring 2024: accepted to ICML 2024: [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725) ! 
+with Michael Albergo, Nick Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden! This work is on choosing data-dependent base distributions for continuous-time flows!
+
+* Spring 2024: accepted to ICML 2024: [probabilistic forecasting with stochastic interpolants and Föllmer processes](https://arxiv.org/abs/2403.13724)! with Yifan Chen, Mengjian Hua, Michael S. Albergo, Nicholas M. Boffi, and Eric Vanden-Eijnden.
 
 * March 2024: glad to help out on the survival analysis / estimation side of things on [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuae037/7633877?utm_source=authortollfreelink&utm_campaign=ehjacc&utm_medium=email&guestAccessKey=6cc48bdf-d527-4bc1-ab47-a98c71cd0bcf), published in European Heart Journal: Acute Cardiovascular Care, March 2024. Also available on [arxiv](https://arxiv.org/abs/2303.12888). 
-
-* March 2024: some work on [probabilistic forecasting with stochastic interpolants and Föllmer processes](https://arxiv.org/abs/2403.13724)!
-Work with Yifan Chen, Mengjian Hua, Michael S. Albergo, Nicholas M. Boffi, and Eric Vanden-Eijnden.
 
 * Feb 2024: glad to help out on the survival analysis / estimation side of things on [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451), published in Journals of the American College of Cardiology, Clinical Electrophysiology. Led by Hao Zhang!
 
@@ -46,9 +50,6 @@ for the NYU course, Inference and Representations, with prof. Yoav Wald.
 
 * Fall 2023: excited to talk about diffusions and flows at 
 the [Decisions, Risk and Operations](https://business.columbia.edu/faculty/divisions/dro) ML reading group at Columbia, organied by Hongseok Namkoong, Kelly Zhang, Tiffany Cai, and others!
-
-* Fall 2023: Some work on choosing data-dependent base distributions for continuous-time flows! [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725) (preprint), work
-with Michael Albergo, Nick Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden!
 
 * Summer 2023: We are running the second iteration of the workshop on Spurious Correlations, Invariance, and Stability at ICML 2023! 
 
