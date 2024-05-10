@@ -7,8 +7,7 @@ layout: default
 I am a PhD candidate at NYU Courant Institute of Mathematical Sciences,
 advised by [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and 
 [Thomas Wies](https://cs.nyu.edu/wies/). I work on causal inference, deep generative models,
-and machine learning for health.
-
+and machine learning for health. I'm also a part of the [STAT research group](https://cds.nyu.edu/stat/) at the NYU Center for Data Science.
 
 <!--
 I work on survival analysis, 
