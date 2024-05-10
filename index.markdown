@@ -24,7 +24,7 @@ causal inference, and representation learning problems with a focus on machine l
 
 * (Spring 2024) Looking forward to being a student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/), starting in May!
 
-* honored to receive the Henning Biermann Prize at NYU Courant!
+* (Spring 2024) honored to receive the Henning Biermann Prize at NYU Courant!
 
 * (Spring 2024) accepted to ICML 2024: Denoising Score Matching For Nonlinear Diffusion Processes (coming soon)! with Raghav Singhal and
 Rajesh Ranganath.
@@ -35,8 +35,8 @@ with Michael Albergo, Nick Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden! Thi
 * (Spring 2024) accepted to ICML 2024: [probabilistic forecasting with stochastic interpolants and Föllmer processes](https://arxiv.org/abs/2403.13724)! with Yifan Chen, Mengjian Hua, Michael S. Albergo, Nicholas M. Boffi, and Eric Vanden-Eijnden.
 
 <!--glad to help out on the survival analysis / estimation side of things on-->
-* (March 2024) out in European Heart Journal, Acute Cardiovascular Care: 
-[A dynamic risk score for early prediction of cardiogenic shock using machine learning]((https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuae037/7633877)
+* (Spring 2024) out in European Heart Journal, Acute Cardiovascular Care: 
+[A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuae037/7633877)
 Also available on [arxiv](https://arxiv.org/abs/2303.12888). 
 
 <!--glad to help out on the survival analysis / estimation side of things on -->
@@ -50,15 +50,14 @@ and many choices for sampling!
 
 * (Fall 2023) glad to take part in the Flatiron Institute’s upcoming second workshop on Measure Transport, Sampling, and Diffusions!
 
-* (Fall 2023) glad to teach a guest lecture on diffusions 
-for the NYU course, Inference and Representations, with prof. Yoav Wald.
+* (Fall 2023) glad to teach a guest lecture on diffusions  for the NYU course, Inference and Representations, with prof. Yoav Wald.
 
 * (Fall 2023) excited to talk about diffusions and flows at 
 the [Decisions, Risk and Operations](https://business.columbia.edu/faculty/divisions/dro) ML reading group at Columbia, organied by Hongseok Namkoong, Kelly Zhang, Tiffany Cai, and others!
 
 * (Summer 2023)  We are running the second iteration of the workshop on Spurious Correlations, Invariance, and Stability at ICML 2023! 
 
-* (Spring 2023) in ICLR 2023: [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2302.07261) 
+* (Spring 2023) accepted to ICLR 2023: [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2302.07261) 
 
 * (Fall 2022) glad to give a guest lecture with my collaborator Raghav Singhal, on diffusions, at Alfredo and Yann's deep learning class at NYU
 
@@ -69,42 +68,41 @@ on July 22. Looking forward to all the talks, and congrats to accepted authors!
 
 * (Summer 2022) accepted to Machine Learning for Healthcare 2022: [Survival Mixture Density Networks](https://arxiv.org/pdf/2208.10759.pdf)
 
-* Summer 2022: glad to continue at Apple Health AI for the summer!
+* (Summer 2022) glad to continue at Apple Health AI for the summer!
 
-* Spring 2022: [Learning Invariant Representations with Missing Data](https://arxiv.org/pdf/2112.00881.pdf)
-(a full version) accepted to CLeaR (Causal Learning and Reasoning) 2022!
+* (Spring 2022) accepted to CLeaR (Causal Learning and Reasoning) 2022: [Learning Invariant Representations with Missing Data](https://arxiv.org/pdf/2112.00881.pdf) (full version)
 
-* Fall 2021: [Learning Invariant Representations with Missing Data](https://arxiv.org/pdf/2112.00881.pdf) accepted to NeurIPS 2021 DistShift Workshop (on distribution shifts)!
+* (Fall 2021) accepted to NeurIPS 2021 DistShift Workshop: [Learning Invariant Representations with Missing Data](https://arxiv.org/pdf/2112.00881.pdf) 
 Work done as part of my internship at Apple Health AI.
 
-* Fall 2021: selected as a recipient of the NeurIPS 2021 Outstanding Reviewer Award. 
+* (Fall 2021) selected as a recipient of the NeurIPS 2021 Outstanding Reviewer Award. 
 <!--Meaningful to me since it was my first time reviewing.
 -->
 Glad to be a part of it!
 
-* Fall 2021: [Inverse-Weighted Survival Games](https://arxiv.org/pdf/2111.08175.pdf) accepted to NeurIPS 2021! 
+* (Fall 2021) accepted to NeurIPS 2021: [Inverse-Weighted Survival Games](https://arxiv.org/pdf/2111.08175.pdf)
 
-* Summer 2021: working with Apple's Health AI team this summer supervised by [Andy Miller](https://andymiller.github.io/) and team!
+* (Summer 2021) working with Apple's Health AI team this summer supervised by [Andy Miller](https://andymiller.github.io/) and team!
 
 <!--
 * Spring 2021: some work on games for training survival models in submission! Work by myself\*, Xintian Han\*, Aahlad Puli, Thomas Wies, Adler J. Perotte, and Rajesh Ranganath.
 -->
 	
-* Spring 2021: [Understanding Failures in Out-of-Distribution Detection with Deep Generative Models](https://arxiv.org/pdf/2107.06908.pdf) accepted to ICML 2021! 
+* (Spring 2021) accepted to ICML 2021: [Understanding Failures in Out-of-Distribution Detection with Deep Generative Models](https://arxiv.org/pdf/2107.06908.pdf) (full version)
 
-* Spring 2021: [Understanding Out-of-Distribution Detection with Deep Generative Models](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-045) accepted to RobustML workshop @ ICLR 2021! 
+* (Spring 2021) accepted to RobustML workshop @ ICLR 2021 [Understanding Out-of-Distribution Detection with Deep Generative Models](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-045) 
 
-* Fall 2020: I qualified! Upgrade from Student to Candidate. 
+* (Fall 2020) I qualified! Upgrade from Student to Candidate. 
 
-* Fall 2020: after some time away from harvard cs, happy to help out Prof [Nada Amin](https://namin.seas.harvard.edu/people/nada-amin) with the harvard AI/PL seminar 
+* (Fall 2020) after some time away from harvard cs, happy to help out Prof [Nada Amin](https://namin.seas.harvard.edu/people/nada-amin) with the harvard AI/PL seminar 
 
-* Fall 2020: the deep learning course I TA'ed in spring 2020 for [Yann LeCun](http://yann.lecun.com/) and Alfredo Canziani is now up on [Alf's github page](https://atcold.github.io/pytorch-Deep-Learning/), check out all of Alf's wonderful teaching materials and thanks to students for your notetaking
+* (Fall 2020) the deep learning course I TA'ed in spring 2020 for [Yann LeCun](http://yann.lecun.com/) and Alfredo Canziani is now up on [Alf's github page](https://atcold.github.io/pytorch-Deep-Learning/), check out all of Alf's wonderful teaching materials and thanks to students for your notetaking
 
-* Fall 2020: [X-CAL: Explicit Calibration for Survival Analysis](https://arxiv.org/pdf/2101.05346.pdf) accepted to NeurIPS 2020! 
+* (Fall 2020) accepted to NeurIPS 2020: [X-CAL: Explicit Calibration for Survival Analysis](https://arxiv.org/pdf/2101.05346.pdf)
 
-* Summer 2019: I'm working in [Emtiyaz Khan's](https://emtiyaz.github.io/) Approximate Bayesian Inference group at [RIKEN AIP](https://aip.riken.jp/) in Tokyo!
+* (Summer 2019) I'm working in [Emtiyaz Khan's](https://emtiyaz.github.io/) Approximate Bayesian Inference group at [RIKEN AIP](https://aip.riken.jp/) in Tokyo!
 
-* 2018: MacCracken Fellow, NYU Graduate School of Arts and Sciences, Five years of PhD funding.
+* (2018) MacCracken Fellow, NYU Graduate School of Arts and Sciences, Five years of PhD funding.
 
 
 ## Conferences I usually review for 
