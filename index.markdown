@@ -32,38 +32,42 @@ Rajesh Ranganath.
 * (Spring 2024) accepted to ICML 2024: [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725) ! 
 with Michael Albergo, Nick Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden! This work is on choosing data-dependent base distributions for continuous-time flows!
 
-* Spring 2024: accepted to ICML 2024: [probabilistic forecasting with stochastic interpolants and Föllmer processes](https://arxiv.org/abs/2403.13724)! with Yifan Chen, Mengjian Hua, Michael S. Albergo, Nicholas M. Boffi, and Eric Vanden-Eijnden.
+* (Spring 2024) accepted to ICML 2024: [probabilistic forecasting with stochastic interpolants and Föllmer processes](https://arxiv.org/abs/2403.13724)! with Yifan Chen, Mengjian Hua, Michael S. Albergo, Nicholas M. Boffi, and Eric Vanden-Eijnden.
 
-* March 2024: glad to help out on the survival analysis / estimation side of things on [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuae037/7633877?utm_source=authortollfreelink&utm_campaign=ehjacc&utm_medium=email&guestAccessKey=6cc48bdf-d527-4bc1-ab47-a98c71cd0bcf), published in European Heart Journal: Acute Cardiovascular Care, March 2024. Also available on [arxiv](https://arxiv.org/abs/2303.12888). 
+<!--glad to help out on the survival analysis / estimation side of things on-->
+* (March 2024) out in European Heart Journal, Acute Cardiovascular Care: 
+[A dynamic risk score for early prediction of cardiogenic shock using machine learning]((https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuae037/7633877)
+Also available on [arxiv](https://arxiv.org/abs/2303.12888). 
 
-* Feb 2024: glad to help out on the survival analysis / estimation side of things on [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451), published in Journals of the American College of Cardiology, Clinical Electrophysiology. Led by Hao Zhang!
+<!--glad to help out on the survival analysis / estimation side of things on -->
+* (Feb 2024) out in Journals of the American College of Cardiology, Clinical Electrophysiology:
+[QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451)
 
-* Jan 2024: [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)! A family
+* (Jan 2024) [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)! A family
 of generative models built on Diffusion Transformers, but with a flexible stochastic interpolant
 process replacing the score based diffusion. Stable to train, performs well at each model size, 
 and many choices for sampling!
 
-* Fall 2023: glad to take part in the Flatiron Institute’s upcoming second workshop on Measure Transport, Sampling, and Diffusions!
+* (Fall 2023) glad to take part in the Flatiron Institute’s upcoming second workshop on Measure Transport, Sampling, and Diffusions!
 
-* Fall 2023: glad to teach a guest lecture on diffusions 
+* (Fall 2023) glad to teach a guest lecture on diffusions 
 for the NYU course, Inference and Representations, with prof. Yoav Wald.
 
-* Fall 2023: excited to talk about diffusions and flows at 
+* (Fall 2023) excited to talk about diffusions and flows at 
 the [Decisions, Risk and Operations](https://business.columbia.edu/faculty/divisions/dro) ML reading group at Columbia, organied by Hongseok Namkoong, Kelly Zhang, Tiffany Cai, and others!
 
-* Summer 2023: We are running the second iteration of the workshop on Spurious Correlations, Invariance, and Stability at ICML 2023! 
+* (Summer 2023)  We are running the second iteration of the workshop on Spurious Correlations, Invariance, and Stability at ICML 2023! 
 
-* Spring 2023: [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2302.07261) accepted to ICLR 2023! Joint work with Raghav Singhal and Rajesh Ranganath.
+* (Spring 2023) in ICLR 2023: [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2302.07261) 
 
-* Fall 2022: glad to give a guest lecture with my collaborator Raghav Singhal, on diffusions, at Alfredo and Yann's deep learning class at NYU
+* (Fall 2022) glad to give a guest lecture with my collaborator Raghav Singhal, on diffusions, at Alfredo and Yann's deep learning class at NYU
 
-* Fall 2022: glad to take part in, and give a short talk at, the Flatiron Institute's [workshop on Sampling, Transport, and Diffusions](https://sites.google.com/view/sampling-transport-diffusions/home)!
+* (Fall 2022) glad to take part in, and give a short talk at, the Flatiron Institute's [workshop on Sampling, Transport, and Diffusions](https://sites.google.com/view/sampling-transport-diffusions/home)!
 
-* Summer 2022: excited to be co-organizing the [ICML Workshop on Spurious Correlations, Invariance, and Stability](https://sites.google.com/view/scis-workshop/home) 
+* (Summer 2022) excited to be co-organizing the [ICML Workshop on Spurious Correlations, Invariance, and Stability](https://sites.google.com/view/scis-workshop/home) 
 on July 22. Looking forward to all the talks, and congrats to accepted authors!
 
-* Summer 2022: [Survival Mixture Density Networks](https://arxiv.org/pdf/2208.10759.pdf)
-accepted to Machine Learning for Healthcare Conference!
+* (Summer 2022) accepted to Machine Learning for Healthcare 2022: [Survival Mixture Density Networks](https://arxiv.org/pdf/2208.10759.pdf)
 
 * Summer 2022: glad to continue at Apple Health AI for the summer!
 
