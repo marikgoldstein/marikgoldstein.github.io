@@ -47,20 +47,28 @@ of generative models built on Diffusion Transformers, but with a flexible stocha
 process replacing the score based diffusion. Stable to train, performs well at each model size, 
 and many choices for sampling!
 
-* (Fall 2023) glad to take part in the Flatiron Institute’s upcoming second workshop on Measure Transport, Sampling, and Diffusions!
+<!-- * (Fall 2023) glad to take part in the Flatiron Institute’s upcoming second workshop on Measure Transport, Sampling, and Diffusions! -->
+* (Fall 2023) taking part @ Flatiron Institute’s upcoming second workshop on Measure Transport, Sampling, and Diffusions!
 
-* (Fall 2023) glad to teach a lecture about diffusions + flows for the NYU course, Inference and Representations, with prof. Yoav Wald.
 
-* (Fall 2023) glad to talk about diffusions + flows at 
-the [Decisions, Risk and Operations](https://business.columbia.edu/faculty/divisions/dro) ML reading group at Columbia, organized by Hongseok Namkoong, Kelly Zhang, Tiffany Cai, and others!
+<!--* (Fall 2023) glad to teach a lecture about diffusions + flows for the NYU course, Inference and Representations, with prof. Yoav Wald.-->
+* (Fall 2023) lecture on diffusions + flows @ NYU course, Inference and Representations
+
+<!--* (Fall 2023) glad to talk about diffusions + flows at 
+the [Decisions, Risk and Operations](https://business.columbia.edu/faculty/divisions/dro) ML reading group at Columbia, organized by Hongseok Namkoong, Kelly Zhang, Tiffany Cai, and others!-->
+
+* (Fall 2023) talk on diffusions + flows @ [Decisions, Risk and Operations](https://business.columbia.edu/faculty/divisions/dro) ML reading group at Columbia, organized by Hongseok Namkoong!
 
 * (Summer 2023)  We are running the second iteration of the workshop on Spurious Correlations, Invariance, and Stability at ICML 2023! 
 
 * (Spring 2023) accepted to ICLR 2023: [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2302.07261) 
 
-* (Fall 2022) glad to give a guest lecture on diffusions with my collaborator Raghav Singhal, at Alfredo and Yann's deep learning class at NYU
+<!-- * (Fall 2022) glad to give a guest lecture on diffusions with my collaborator Raghav Singhal, at Alfredo and Yann's deep learning class at NYU-->
+* (Fall 2022) lecture on diffusions @ Yann LeCun's deep learning course at NYU!
 
-* (Fall 2022) glad to give a talk at the Flatiron Institute's [workshop on Sampling, Transport, and Diffusions](https://sites.google.com/view/sampling-transport-diffusions/home)!
+<!-- * (Fall 2022) glad to give a talk at the Flatiron Institute's [workshop on Sampling, Transport, and Diffusions](https://sites.google.com/view/sampling-transport-diffusions/home)!-->
+* (Fall 2022) talk on diffusions @ the Flatiron Institute's [workshop on Sampling, Transport, and Diffusions](https://sites.google.com/view/sampling-transport-diffusions/home)!
+
 
 * (Summer 2022) excited to be co-organizing the [ICML Workshop on Spurious Correlations, Invariance, and Stability](https://sites.google.com/view/scis-workshop/home)!
 
