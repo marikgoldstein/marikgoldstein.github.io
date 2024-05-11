@@ -34,12 +34,12 @@ with Michael Albergo, Nick Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden! Thi
 * (Spring 2024) accepted to ICML 2024: [probabilistic forecasting with stochastic interpolants and Föllmer processes](https://arxiv.org/abs/2403.13724)! with Yifan Chen, Mengjian Hua, Michael S. Albergo, Nicholas M. Boffi, and Eric Vanden-Eijnden.
 
 <!--glad to help out on the survival analysis / estimation side of things on-->
-* (Spring 2024) out in European Heart Journal, Acute Cardiovascular Care: 
+* (Spring 2024) accepted to European Heart Journal, Acute Cardiovascular Care: 
 [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuae037/7633877)
 Also available on [arxiv](https://arxiv.org/abs/2303.12888). 
 
 <!--glad to help out on the survival analysis / estimation side of things on -->
-* (Feb 2024) out in Journals of the American College of Cardiology, Clinical Electrophysiology:
+* (Feb 2024) accepted to Journals of the American College of Cardiology, Clinical Electrophysiology:
 [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451)
 
 * (Jan 2024) [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)! A family
