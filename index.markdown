@@ -42,10 +42,10 @@ Also available on [arxiv](https://arxiv.org/abs/2303.12888).
 * (Feb 2024) accepted to Journals of the American College of Cardiology, Clinical Electrophysiology:
 [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451)
 
-* (Jan 2024) [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)! A family
-of generative models built on Diffusion Transformers, but with a flexible stochastic interpolant
+* (Jan 2024) [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)! 
+<!-- A family of generative models built on Diffusion Transformers, but with a flexible stochastic interpolant
 process replacing the score based diffusion. Stable to train, performs well at each model size, 
-and many choices for sampling!
+and many choices for sampling! -->
 
 <!-- * (Fall 2023) glad to take part in the Flatiron Institute’s upcoming second workshop on Measure Transport, Sampling, and Diffusions! -->
 * (Fall 2023) taking part @ Flatiron Institute’s upcoming second workshop on Measure Transport, Sampling, and Diffusions!
