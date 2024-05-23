@@ -21,7 +21,7 @@ causal inference, and representation learning problems with a focus on machine l
 
 ## News
 
-* (Spring 2024) Looking forward to being a student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/), starting in May!
+* (Summer-Fall 2024) student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/)!
 
 * (Spring 2024) honored to receive the Henning Biermann Prize for teaching by a PhD student at NYU Courant!
 
