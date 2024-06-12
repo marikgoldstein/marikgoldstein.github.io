@@ -28,7 +28,7 @@ causal inference, and representation learning problems with a focus on machine l
 * (Spring 2024) accepted to ICML 2024: Denoising Score Matching For Nonlinear Diffusion Processes (coming soon)! with Raghav Singhal and
 Rajesh Ranganath.
 
-* (Spring 2024) accepted to ICML 2024: [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725) ! 
+* (Spring 2024) accepted to ICML 2024 (*spotlight paper*): [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725) ! 
 with Michael Albergo, Nick Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden! This work is on choosing data-dependent base distributions for continuous-time flows!
 
 * (Spring 2024) accepted to ICML 2024: [probabilistic forecasting with stochastic interpolants and Föllmer processes](https://arxiv.org/abs/2403.13724)! with Yifan Chen, Mengjian Hua, Michael S. Albergo, Nicholas M. Boffi, and Eric Vanden-Eijnden.
