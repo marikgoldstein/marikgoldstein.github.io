@@ -21,6 +21,8 @@ causal inference, and representation learning problems with a focus on machine l
 
 ## News
 
+* (Summer-Fall 2024) will generally be applying to postdocs + jobs in the fall. Feel free to reach out about this!
+
 * (Summer-Fall 2024) student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/)!
 
 * (Spring 2024) honored to receive the Henning Biermann Prize for teaching by a PhD student at NYU Courant!
@@ -110,6 +112,11 @@ Glad to be a part of it!
 
 * (2018) MacCracken Fellow, NYU Graduate School of Arts and Sciences, Five years of PhD funding.
 
+
+## mentoring
+- Abhipsha Das (Master's Thesis at NYU on diffusions for text)
+- Shraddha Jain (current Master's student, research on VAEs)
+- Nina Mortensen (Masters Thesis at NYU, research on VAEs, now at Fauna Robotics)
 
 ## Conferences I usually review for 
 - NeurIPS
