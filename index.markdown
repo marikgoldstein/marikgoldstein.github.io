@@ -118,6 +118,19 @@ Glad to be a part of it!
 - Shraddha Jain (current Master's student, research on VAEs)
 - Nina Mortensen (Masters Thesis at NYU, research on VAEs, now at Fauna Robotics)
 
+## Courses I've TA'ed/TF'ed:
+• NYU, CSCI-GA.2565: Machine Learning. Prof: Rajesh Ranganath. Spring 2022.
+• NYU, CSCI-GA.2565: Machine Learning. Prof: Rajesh Ranganath. Spring 2021.
+• NYU, CSCI-GA.2572: Deep Learning. Prof: Yann LeCun. Spring 2020.
+• NYU, CSCI-GA.2565: Machine Learning. Prof: Rajesh Ranganath. Fall 2019.
+• Harvard, CS 181: Machine Learning. Profs: Finale Doshi-Velez and David Parkes. Spring 2021.
+• Harvard, CS 252: Programming Languages and Artificial Intelligence. Prof: Nada Amin. Fall 2020.
+• Harvard, CS 181: Machine Learning. Prof: Finale Doshi-Velez. Spring 2018.
+• Harvard, CS 281: Advanced Machine Learning. Prof: Sasha Rush. Fall 2017.
+• Harvard, CS 121: Intro to Theoretical CS. Profs: Boaz Barak and Salil Vadhan. Fall 2017.
+• Harvard, CS 181: Machine Learning. Profs: David Parkes and Sasha Rush. Spring 2017.
+• Harvard, CS 61: Systems Programming and Machine Organization. Profs: Margo Seltzer and Eddie Kohler. Fall 2016.
+
 ## Conferences I usually review for 
 - NeurIPS
 - ICML
