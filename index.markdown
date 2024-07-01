@@ -9,7 +9,7 @@ advised by [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and
 [Thomas Wies](https://cs.nyu.edu/wies/). I work on causal inference, deep generative models,
 and machine learning for health. I'm also a part of the [STAT research group](https://cds.nyu.edu/stat/) at the NYU Center for Data Science.
 
-I will generally be applying to postdocs + jobs in the fall. Feel free to reach out about this!
+I will generally be looking to postdocs + jobs in the fall. Feel free to reach out about this!
 
 <!--
 I work on survival analysis, 
