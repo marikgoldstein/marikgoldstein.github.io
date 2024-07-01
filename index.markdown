@@ -25,7 +25,7 @@ causal inference, and representation learning problems with a focus on machine l
 
 * (Summer-Fall 2024) student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/)!
 
-* (Jan 2024) accepted to ECCV 2024: [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)!
+* (July 2024) accepted to ECCV 2024: [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)!
   With Nanye Willis Ma, Michael Albergo, Nick Boffi, Eric Vanden-Eijnden, and Saining Xie.
 <!-- A family of generative models built on Diffusion Transformers, but with a flexible stochastic interpolant
 process replacing the score based diffusion. Stable to train, performs well at each model size, 
