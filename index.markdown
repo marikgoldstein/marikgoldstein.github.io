@@ -9,6 +9,8 @@ advised by [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and
 [Thomas Wies](https://cs.nyu.edu/wies/). I work on causal inference, deep generative models,
 and machine learning for health. I'm also a part of the [STAT research group](https://cds.nyu.edu/stat/) at the NYU Center for Data Science.
 
+I will generally be applying to postdocs + jobs in the fall. Feel free to reach out about this!
+
 <!--
 I work on survival analysis, 
 causal inference, and machine learning for health.
@@ -21,7 +23,6 @@ causal inference, and representation learning problems with a focus on machine l
 
 ## News
 
-* (Summer-Fall 2024) will generally be applying to postdocs + jobs in the fall. Feel free to reach out about this!
 
 * (Summer-Fall 2024) student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/)!
 
@@ -71,7 +72,6 @@ the [Decisions, Risk and Operations](https://business.columbia.edu/faculty/divis
 <!-- * (Fall 2022) glad to give a talk at the Flatiron Institute's [workshop on Sampling, Transport, and Diffusions](https://sites.google.com/view/sampling-transport-diffusions/home)!-->
 * (Fall 2022) talk on diffusions @ the Flatiron Institute's [workshop on Sampling, Transport, and Diffusions](https://sites.google.com/view/sampling-transport-diffusions/home)!
 
-
 * (Summer 2022) excited to be co-organizing the [ICML Workshop on Spurious Correlations, Invariance, and Stability](https://sites.google.com/view/scis-workshop/home)!
 
 * (Summer 2022) accepted to Machine Learning for Healthcare 2022: [Survival Mixture Density Networks](https://arxiv.org/pdf/2208.10759.pdf)
@@ -83,10 +83,7 @@ the [Decisions, Risk and Operations](https://business.columbia.edu/faculty/divis
 * (Fall 2021) accepted to NeurIPS 2021 DistShift Workshop: [Learning Invariant Representations with Missing Data](https://arxiv.org/pdf/2112.00881.pdf) 
 Work done as part of my internship at Apple Health AI.
 
-* (Fall 2021) selected as a recipient of the NeurIPS 2021 Outstanding Reviewer Award. 
-<!--Meaningful to me since it was my first time reviewing.
--->
-Glad to be a part of it!
+* (Fall 2021) selected as a recipient of the NeurIPS 2021 Outstanding Reviewer Award. Glad to be a part of it!
 
 * (Fall 2021) accepted to NeurIPS 2021: [Inverse-Weighted Survival Games](https://arxiv.org/pdf/2111.08175.pdf)
 
