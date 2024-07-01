@@ -114,6 +114,7 @@ Work done as part of my internship at Apple Health AI.
 - Abhipsha Das (Master's Thesis at NYU, 2024, on diffusions for text)
 - Shraddha Jain (current Master's student, 2024, research on VAEs)
 - Nina Mortensen (Masters Thesis at NYU, 2024, research on VAEs, now at Fauna Robotics)
+- Kyle Adams (Undergradate from University of Florida, 2022, research on survival analysis, now a math phd at UF)
 - mentor for [Women in Data Science Datathon](https://www.widscambridge.org/datathon), Cambridge, 2021. 
 
 ## Courses I've TA'ed/TF'ed:
