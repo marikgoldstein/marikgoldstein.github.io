@@ -9,7 +9,7 @@ advised by [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and
 [Thomas Wies](https://cs.nyu.edu/wies/). I work on causal inference, deep generative models,
 and machine learning for health. I'm also a part of the [STAT research group](https://cds.nyu.edu/stat/) at the NYU Center for Data Science.
 
-In fall 2024, I will start looking for postdoc positions + jobs for summer/fall 2025. Feel free to reach out about this!
+In fall 2024, I will start looking for postdoc positions + jobs for summer/fall 2025. Feel free to reach out about this! Thoughts at the moment: In general I care about (1) ml for health (e.g. cardiovascular health) and (2) methodology in generative models, particularly on the diffusion/flow side of things, and for applications like images, video, and PDEs (see work below). *What about the intersection of (1) and (2)*? I'm still unsure. On the health side, at best, who/why can it help? My best guesses at the moment are that conditional generative models, under the right assumptions, can alleviate some issues in messy EHRs, and that conditional generative models can be used to test which information one modality of expensive measurement/imaging may have about others. On the other hand, as far as health inspiring modeling methodology, great: health does offer a lot of unique methods questions (missing data, tabular data, signals, all stuff that's hard to make diffusions/flows work well on.
 
 <!--
 I work on survival analysis, 
