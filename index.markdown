@@ -111,9 +111,10 @@ Work done as part of my internship at Apple Health AI.
 
 
 ## mentoring
-- Abhipsha Das (Master's Thesis at NYU on diffusions for text)
-- Shraddha Jain (current Master's student, research on VAEs)
-- Nina Mortensen (Masters Thesis at NYU, research on VAEs, now at Fauna Robotics)
+- Abhipsha Das (Master's Thesis at NYU, 2024, on diffusions for text)
+- Shraddha Jain (current Master's student, 2024, research on VAEs)
+- Nina Mortensen (Masters Thesis at NYU, 2024, research on VAEs, now at Fauna Robotics)
+- mentor for [Women in Data Science Dataathon](https://www.widscambridge.org/datathon), Cambridge, 2021. 
 
 ## Courses I've TA'ed/TF'ed:
 - NYU, CSCI-GA.2565: Machine Learning. Prof: Rajesh Ranganath. Spring 2022.
