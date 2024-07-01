@@ -23,8 +23,13 @@ causal inference, and representation learning problems with a focus on machine l
 
 ## News
 
-
 * (Summer-Fall 2024) student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/)!
+
+* (Jan 2024) accepted to ECCV 2024: [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)!
+  With Nanye Willis Ma, Michael Albergo, Nick Boffi, Eric Vanden-Eijnden, and Saining Xie.
+<!-- A family of generative models built on Diffusion Transformers, but with a flexible stochastic interpolant
+process replacing the score based diffusion. Stable to train, performs well at each model size, 
+and many choices for sampling! -->
 
 * (Spring 2024) honored to receive the Henning Biermann Prize for teaching by a PhD student at NYU Courant!
 
@@ -44,11 +49,6 @@ Also available on [arxiv](https://arxiv.org/abs/2303.12888).
 <!--glad to help out on the survival analysis / estimation side of things on -->
 * (Feb 2024) accepted to Journals of the American College of Cardiology, Clinical Electrophysiology:
 [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451)
-
-* (Jan 2024) [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)! 
-<!-- A family of generative models built on Diffusion Transformers, but with a flexible stochastic interpolant
-process replacing the score based diffusion. Stable to train, performs well at each model size, 
-and many choices for sampling! -->
 
 <!-- * (Fall 2023) glad to take part in the Flatiron Institute’s upcoming second workshop on Measure Transport, Sampling, and Diffusions! -->
 * (Fall 2023) taking part @ Flatiron Institute’s upcoming second workshop on Measure Transport, Sampling, and Diffusions!
