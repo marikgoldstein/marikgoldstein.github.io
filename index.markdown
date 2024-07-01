@@ -13,8 +13,8 @@ In fall 2024, I will start looking for postdoc positions + jobs for summer/fall 
 
 Thoughts at the moment: In general I care about (1) ml for health (e.g. cardiovascular health) and (2) methodology in generative models, particularly on the diffusion/flow side of things, and for applications like images, video, and PDEs (see work below). 
 
-*What about the intersection of (1) and (2)*? I'm cautious. On the health side, at best, who/why/what can great generative models help? My best guesses at the moment are that conditional generative models, under the right assumptions, can alleviate some issues in messy EHRs, and that they can be used to test which information one high-dimensional modality
-may have about others (which helps one one is expensive). On the other hand, health does inspire challenging methods questions: missing data, tabular data, signals, all stuff that's hard to make diffusions/flows work well on.
+*What about the intersection of (1) and (2)*? I'm cautious. On the health side, at best, who/why/what can great generative models help? My best guesses at the moment are that conditional generative models, under the right assumptions, can alleviate some issues in messy EHRs, and that they can be used to test if one high-dimensional modality
+may have information about others (which helps when the latter are expensive). On the other hand, health does inspire challenging methods questions: missing data, tabular data, signals, all stuff that's hard to make diffusions/flows work well on.
 
 <!--
 I work on survival analysis, 
