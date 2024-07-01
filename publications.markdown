@@ -13,6 +13,10 @@ Here's my [google scholar](https://scholar.google.fr/citations?hl=en&user=-oKlMZ
 * Does it really transport? A grounded validation of transportability and its application to EHR-based risk models for Coronary Artery Disease.
 Forthcoming, 2024. Work by Shreyas Bhave\*, Aahlad Puli\*, me\*, Mert Ketenci, Noémie Elhadad, Adler Perotte and Rajesh Ranganath.
 
+* [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740).
+European Conference on Computer Vision (ECCV), 2024.
+Work by Nanye Willis Ma\*, me, Michael Albergo, Nick Boffi, Eric Vanden-Eijnden, and Saining Xie.
+
 *  Denoising Score Matching For Nonlinear Diffusion Processes (to appear).
 International Conference on Machine Learning, 2024.
 Work by Raghav Singhal\*, me\*, and Rajesh Ranganath.
@@ -29,9 +33,6 @@ Work by me\*, Michael Albergo\*, Nick Boffi, Rajesh Ranganath, and Eric Vanden-E
 European Heart Journal: Acute Cardiovascular Care, March 2024. 
 Also available on [arxiv](https://arxiv.org/abs/2303.12888). 
 Work by Yuxuan Hu\*, myself, Rajesh Ranganath, and many others.
-
-* [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740).
-Preprint. January 2024. Work by Nanye Willis Ma\*, me, Michael Albergo, Nick Boffi, Eric Vanden-Eijnden, and Saining Xie.
 
 * [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451).
 Journals of the American College of Cardiology, Clinical Electrophysiology. Hao Zhang\*, Constantine Tarabanis, Neil Jethani, me, Silas Smith, Larry A. Chinitz, Rajesh Ranganath, Yindalon Aphinyanaphongs, and Lior Jankelson.
