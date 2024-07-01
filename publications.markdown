@@ -10,7 +10,10 @@ permalink: publications.html
 
 Here's my [google scholar](https://scholar.google.fr/citations?hl=en&user=-oKlMZUAAAAJ&view_op=list_works&sortby=pubdate)
 
-* Does it really transport? A grounded validation of transportability and its application to EHR-based risk models for Coronary Artery Disease.
+* forthcoming: A Primer on Spurious Correlations in Out-of-distribution Generalization.
+Forthcoming, 2024. Work by Aahlad Puli, Yoav wald, me, Maggie Makar, and Rajesh Ranganath.
+
+* forthcoming: Does it really transport? A grounded validation of transportability and its application to EHR-based risk models for Coronary Artery Disease.
 Forthcoming, 2024. Work by Shreyas Bhave\*, Aahlad Puli\*, me\*, Mert Ketenci, Noémie Elhadad, Adler Perotte and Rajesh Ranganath.
 
 * [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740).
