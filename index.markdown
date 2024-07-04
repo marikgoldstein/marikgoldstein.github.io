@@ -11,6 +11,8 @@ and machine learning for health. I'm also a part of the [STAT research group](ht
 
 In fall 2024, I will start looking for postdoc positions + jobs for summer/fall 2025. Feel free to reach out about this! 
 
+feel free to anonymously give me comments/suggestions/feedback [here](https://docs.google.com/forms/d/e/1FAIpQLScr3QyHx5EmLy8OLmX6lCuZZxCILdCqJRywaBSnFShyzdvmWQ/viewform?usp=sf_link)
+
 <!--
 Thoughts at the moment: In general I care about (1) ml for health (e.g. cardiovascular health) and (2) methodology in generative models, particularly on the diffusion/flow side of things, and for applications like images, video, and PDEs (see work below). 
 
