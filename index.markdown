@@ -44,7 +44,8 @@ and many choices for sampling! -->
 
 * (Spring 2024) honored to receive the Henning Biermann Prize for teaching by a PhD student at NYU Courant!
 
-* (Spring 2024) accepted to ICML 2024: [Denoising Score Matching For Nonlinear Diffusion Processes](https://arxiv.org/abs/2407.07998)! with Raghav Singhal and
+* (Spring 2024) accepted to ICML 2024: [What's the score? Automated Denoising Score Matching for Nonlinear Diffusions
+](https://arxiv.org/abs/2407.07998)! with Raghav Singhal and
 Rajesh Ranganath.
 
 * (Spring 2024) accepted to ICML 2024 (**spotlight paper**): [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725) ! 
