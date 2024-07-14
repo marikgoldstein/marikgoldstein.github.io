@@ -21,7 +21,8 @@ Forthcoming, 2024. Work by Shreyas Bhave\*, Aahlad Puli\*, me\*, Mert Ketenci, N
 European Conference on Computer Vision (ECCV), 2024.
 Work by Nanye Willis Ma\*, me, Michael Albergo, Nick Boffi, Eric Vanden-Eijnden, and Saining Xie.
 
-*  [Denoising Score Matching For Nonlinear Diffusion Processes](https://arxiv.org/abs/2407.07998).
+*  [What's the score? Automated Denoising Score Matching for Nonlinear Diffusions
+](https://arxiv.org/abs/2407.07998).
 International Conference on Machine Learning, 2024.
 Work by Raghav Singhal\*, me\*, and Rajesh Ranganath.
 
