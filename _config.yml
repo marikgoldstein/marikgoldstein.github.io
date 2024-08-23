@@ -37,13 +37,13 @@ url: https://marikgoldstein.github.io
 # the base hostname and protocol for your site, e.g. http://example.com
 
 
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: marikgoldstein
+github_username:  marikgoldstein
 
 # Build settings
 #theme: minima
 #theme: jekyll-theme-minimal
-#theme: jekyll-theme-kagami
+theme: jekyll-theme-kagami
 
 
 plugins:
