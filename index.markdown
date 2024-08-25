@@ -13,6 +13,10 @@ In fall 2024, I will start looking for postdoc positions + jobs for summer/fall 
 
 feel free to anonymously give me comments/suggestions/feedback [here](https://docs.google.com/forms/d/e/1FAIpQLScr3QyHx5EmLy8OLmX6lCuZZxCILdCqJRywaBSnFShyzdvmWQ/viewform?usp=sf_link)
 
+## On my mind 
+
+LLMs are trained for likelihood and people use these large transformers for all kinds of discrete data represented as text. Diffusions/flows are mostly studied in the context of natural images/video, and by contrast are not trained for likelihood. There are a few successful non-image applications, to proteins, audio, and MRIs. People seem to want to use diffusion models for more science applications (to solve inverse problems, to sample from QFTs, etc...). How can we better understand what we trade off in the quality of solutions to these problems when we give up the well-studied-and-timeless Likelihood? For example, Latent diffusion models first map the data to a lower-dim space and use a diffusion there, and this outer/first-stage dimension-reducing mapping problem is usually optimized so that the decoded samples, mapped through an image classifier, is indistinguishable from real data mapped through a classifier. For non-image problems, why should we settle for this and what do we lose? If using latent diffusion for non-image data, what do we use in place of the classifier to train the encoder/decoder? There are no "labels" in general that preserve the important bits of information that we might want to keep (e.g. high-frequency parts of Navier-Stokes solutions)
+
 <!--
 Thoughts at the moment: In general I care about (1) ml for health (e.g. cardiovascular health) and (2) methodology in generative models, particularly on the diffusion/flow side of things, and for applications like images, video, and PDEs (see work below). 
 
