@@ -49,21 +49,25 @@ causal inference, and representation learning problems with a focus on machine l
 * (Summer-Fall 2024) student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/)!
 
 * (July 2024) accepted to ECCV 2024: [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)!
-  With Nanye Willis Ma, Michael Albergo, Nick Boffi, Eric Vanden-Eijnden, and Saining Xie.
-<!-- A family of generative models built on Diffusion Transformers, but with a flexible stochastic interpolant
+ 
+<!--
+ With Nanye Willis Ma, Michael Albergo, Nick Boffi, Eric Vanden-Eijnden, and Saining Xie.
+A family of generative models built on Diffusion Transformers, but with a flexible stochastic interpolant
 process replacing the score based diffusion. Stable to train, performs well at each model size, 
 and many choices for sampling! -->
 
 * (Spring 2024) honored to receive the Henning Biermann Prize for teaching by a PhD student at NYU Courant!
 
 * (Spring 2024) accepted to ICML 2024: [What's the score? Automated Denoising Score Matching for Nonlinear Diffusions
-](https://arxiv.org/abs/2407.07998)! with Raghav Singhal and
-Rajesh Ranganath.
+](https://arxiv.org/abs/2407.07998)!
+<!-- with Raghav Singhal and
+Rajesh Ranganath.-->
 
 * (Spring 2024) accepted to ICML 2024 (**spotlight paper**): [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725) ! 
-with Michael Albergo, Nick Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden! This work is on choosing data-dependent base distributions for continuous-time flows!
+<!--with Michael Albergo, Nick Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden! This work is on choosing data-dependent base distributions for continuous-time flows! -->
 
-* (Spring 2024) accepted to ICML 2024: [probabilistic forecasting with stochastic interpolants and Föllmer processes](https://arxiv.org/abs/2403.13724)! with Yifan Chen, Mengjian Hua, Michael S. Albergo, Nicholas M. Boffi, and Eric Vanden-Eijnden.
+* (Spring 2024) accepted to ICML 2024: [probabilistic forecasting with stochastic interpolants and Föllmer processes](https://arxiv.org/abs/2403.13724)!
+  <!--with Yifan Chen, Mengjian Hua, Michael S. Albergo, Nicholas M. Boffi, and Eric Vanden-Eijnden.-->
 
 <!--glad to help out on the survival analysis / estimation side of things on-->
 * (Spring 2024) accepted to European Heart Journal, Acute Cardiovascular Care: 
