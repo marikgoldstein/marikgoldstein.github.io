@@ -1,7 +1,7 @@
 ---
 layout: default
 classes:
-	- wide 
+  - wide 
 ---
 
 ## About Me
