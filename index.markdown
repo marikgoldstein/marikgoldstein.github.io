@@ -48,7 +48,7 @@ causal inference, and representation learning problems with a focus on machine l
 ## News
 
 
-* (October 2024) giving a talk in [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)’s [group](https://rll.berkeley.edu/) (Berkeley Robot Learning Lab). Topic: Stochastic Interpolants.
+* (October 2024) giving a talk in [Pieter Abbeel's](https://people.eecs.berkeley.edu/~pabbeel/) [group](https://rll.berkeley.edu/). Topic: Stochastic Interpolants.
 
 * (Summer-Fall 2024) student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/)!
 
