@@ -1,7 +1,5 @@
 ---
 layout: default
-classes:
-  - wide
 title: generic
 permalink: publications.html
 ---
