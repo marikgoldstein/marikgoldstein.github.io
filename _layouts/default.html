@@ -15,14 +15,10 @@
 
 
   </head>
-  <body>
+  <body class="layout-- wide">
  <div class="wrapper"> 
-	 
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-      </header>
-      <section>
-
 	{% if site.logo %}
           <img src="https://github.com/marikgoldstein/marikgoldstein.github.io/raw/master/assets/img/cold_spring.jpeg" alt="photo of mark" />
         {% endif %}
@@ -33,11 +29,11 @@
 	<p> email: goldstein [at] nyu [dot] edu <br></p>
 	<p> pronouns: he/him/his <br> </p>
         <p class="view"><a href="./publications.html">publications</a></p>
-
+      </header>
+      <section>
       {{ content }}
 
       </section>
-
 
       <footer>
 	  <!--
