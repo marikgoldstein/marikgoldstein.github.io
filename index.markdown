@@ -36,6 +36,8 @@ In the context of healthcare, I believe conditional generative models, under the
 ---
 (July 2024) accepted to ECCV 2024: [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)!
 
+ ![sit](assets/img/sit2.png)
+
  ![sit](assets/img/sit.png)
  
 ---
