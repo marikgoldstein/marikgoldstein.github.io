@@ -3,7 +3,7 @@
 
 @import "jekyll-theme-minimal";
 
-@media (min-width:1025px) or (min-width:1281px)  {  
+@media screen and ((min-width:1025px) or (min-width:1281px))  {  
   .wrapper {
     width:1200px;
     // left side is 270
