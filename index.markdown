@@ -33,9 +33,12 @@ In the context of healthcare, I believe conditional generative models, under the
 
 (Summer-Fall 2024) student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/)!
 
+---
 (July 2024) accepted to ECCV 2024: [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)!
 
  ![sit](assets/img/sit.png)
+ 
+---
 
 (Spring 2024) honored to receive the Henning Biermann Prize for teaching by a PhD student at NYU Courant!
 
