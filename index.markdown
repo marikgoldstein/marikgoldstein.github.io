@@ -162,14 +162,8 @@ Work done as part of my internship at Apple Health AI.
 - Harvard, CS 181: Machine Learning. Profs: David Parkes and Sasha Rush. Spring 2017.
 - Harvard, CS 61: Systems Programming and Machine Organization. Profs: Margo Seltzer and Eddie Kohler. Fall 2016.
 
-## Conferences I usually review for 
-- NeurIPS
-- ICML
-- ICLR
-- AAAI
-- AISTATS
-- CLeaR
-- misc workshops
+## I usually review for 
+- NeurIPS, ICML, ICLR, AAAI, AISTATS, CLeaR, misc workshops
 
 ## In a previous life
 
