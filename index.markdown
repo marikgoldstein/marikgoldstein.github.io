@@ -58,6 +58,8 @@ In the context of healthcare, I believe conditional generative models, under the
 [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuae037/7633877)
 Also available on [arxiv](https://arxiv.org/abs/2303.12888). 
 
+![cshock](assets/img/cshock.png)
+
 (Feb 2024) accepted to Journals of the American College of Cardiology, Clinical Electrophysiology:
 [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451)
 
