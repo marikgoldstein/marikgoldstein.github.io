@@ -39,27 +39,32 @@ In the context of healthcare, I believe conditional generative models, under the
 
 (Spring 2024) honored to receive the Henning Biermann Prize for teaching by a PhD student at NYU Courant!
 
+---
 (Spring 2024) accepted to ICML 2024: [What's the score? Automated Denoising Score Matching for Nonlinear Diffusions
 ](https://arxiv.org/abs/2407.07998)!
 
 ![localdsm](assets/img/localdsm.png)
 
+---
 (Spring 2024) accepted to ICML 2024 (**spotlight paper**): [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725) ! 
 <!--with Michael Albergo, Nick Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden! This work is on choosing data-dependent base distributions for continuous-time flows! -->
 
 ![couplings](assets/img/couplings.png)
 
+---
 (Spring 2024) accepted to ICML 2024: [probabilistic forecasting with stochastic interpolants and Föllmer processes](https://arxiv.org/abs/2403.13724)!
   <!--with Yifan Chen, Mengjian Hua, Michael S. Albergo, Nicholas M. Boffi, and Eric Vanden-Eijnden.-->
 
 ![forecasting](assets/img/forecasting.png)
 
+---
 (Spring 2024) accepted to European Heart Journal, Acute Cardiovascular Care: 
 [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuae037/7633877)
 Also available on [arxiv](https://arxiv.org/abs/2303.12888). 
 
 ![cshock](assets/img/cshock.png)
 
+---
 (Feb 2024) accepted to Journals of the American College of Cardiology, Clinical Electrophysiology:
 [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451)
 
