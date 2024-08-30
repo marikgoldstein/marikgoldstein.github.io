@@ -43,7 +43,7 @@ In the context of healthcare, I believe conditional generative models, under the
 
  ![sit](assets/img/sit2.png)
 
- ![sit](assets/img/sit.png)
+ <!-- ![sit](assets/img/sit.png) -->
  
 ---
 
