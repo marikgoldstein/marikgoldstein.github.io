@@ -111,7 +111,13 @@ Also available on [arxiv](https://arxiv.org/abs/2303.12888).
 
 (Summer 2022) glad to continue at Apple Health AI for the summer!
 
+---
+
 (Spring 2022) accepted to CLeaR (Causal Learning and Reasoning) 2022: [Learning Invariant Representations with Missing Data](https://arxiv.org/pdf/2112.00881.pdf) (full version)
+
+![clear_mnist](assets/img/clear_mnist.png)
+
+---
 
 (Fall 2021) accepted to NeurIPS 2021 DistShift Workshop: [Learning Invariant Representations with Missing Data](https://arxiv.org/pdf/2112.00881.pdf) 
 Work done as part of my internship at Apple Health AI.
