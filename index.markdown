@@ -70,7 +70,7 @@ In the context of healthcare, I believe conditional generative models, under the
 ![couplings](assets/img/couplings.png)
 
 ---
-### [probabilistic forecasting with stochastic interpolants and Föllmer processes](https://arxiv.org/abs/2403.13724)!
+### [Probabilistic forecasting with stochastic interpolants and Föllmer processes](https://arxiv.org/abs/2403.13724)!
 
 **with Yifan Chen, Mengjian Hua, Michael Albergo, Nicholas Boffi, and Eric Vanden-Eijnden**
 
@@ -90,8 +90,14 @@ Also available on [arxiv](https://arxiv.org/abs/2303.12888).
 ![cshock](assets/img/cshock.png)
 
 ---
-(Feb 2024) accepted to Journals of the American College of Cardiology, Clinical Electrophysiology:
-[QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451)
+
+### [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451)
+
+**With Hao Zhang, Rajesh Ranganath, and many others**
+
+*published in Journals of the American College of Cardiology, Clinical Electrophysiology*
+
+---
 
 (Fall 2023) taking part @ Flatiron Institute’s upcoming second workshop on Measure Transport, Sampling, and Diffusions!
 
