@@ -96,6 +96,9 @@ In the context of healthcare, I believe conditional generative models, under the
 
 *Published in Journals of the American College of Cardiology, Clinical Electrophysiology*
 
+![qtnet](assets/img/qtnet.jpg)
+
+
 ---
 
 (Fall 2023) taking part @ Flatiron Institute’s upcoming second workshop on Measure Transport, Sampling, and Diffusions!
