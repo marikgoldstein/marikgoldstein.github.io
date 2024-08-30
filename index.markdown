@@ -199,7 +199,7 @@ In the context of healthcare, I believe conditional generative models, under the
 
 (Fall 2020) after some time away from harvard cs, happy to help out Prof [Nada Amin](https://namin.seas.harvard.edu/people/nada-amin) with the harvard AI/PL seminar 
 
-(Fall 2020) the deep learning course I TA'ed in spring 2020 for [Yann LeCun](http://yann.lecun.com/) and Alfredo Canziani is now up on [Alf's github page](https://atcold.github.io/pytorch-Deep-Learning/), check out all of Alf's wonderful teaching materials and thanks to students for your notetaking
+(Fall 2020) the deep learning course I TA'ed in spring 2020 for [Yann LeCun](http://yann.lecun.com/) and Alfredo Canziani is now up on [Alf's github page](https://atcold.github.io/NYU-DLSP20/), check out all of Alf's wonderful teaching materials and thanks to students for your notetaking
 
 ---
 
@@ -223,7 +223,7 @@ In the context of healthcare, I believe conditional generative models, under the
 - Nina Mortensen (Masters Thesis at NYU, 2024, research on VAEs, now at Fauna Robotics)
 - Kyle Adams (Undergradate from University of Florida, 2022, research on survival analysis, now a math phd at UF)
 - mentor for [Women in Data Science Datathon](https://www.widscambridge.org/datathon), Cambridge, 2021. 
-- tutored at a few iterations of [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2024/), meant for first and second year undergraduate in the NYC area as a first exposure to AI/ML
+- tutored at a few iterations of [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2024/), meant for first and second year undergraduates in the NYC area as a first exposure to AI/ML
 
 ## Courses I've TA'ed/TF'ed:
 - NYU, Machine Learning. Prof: Rajesh Ranganath. Spring 2022.
