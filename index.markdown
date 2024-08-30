@@ -209,6 +209,8 @@ In the context of healthcare, I believe conditional generative models, under the
 
 *Published in NeurIPS 2020* 
 
+![calibration](assets/img/calibration.png)
+
 ---
 (Summer 2019) I'm working in [Emtiyaz Khan's](https://emtiyaz.github.io/) Approximate Bayesian Inference group at [RIKEN AIP](https://aip.riken.jp/) in Tokyo!
 
