@@ -75,8 +75,13 @@ Also available on [arxiv](https://arxiv.org/abs/2303.12888).
 
 (Fall 2023) taking part @ Flatiron Institute’s upcoming second workshop on Measure Transport, Sampling, and Diffusions!
 
+---
+
 (Fall 2023) lecture on diffusions + flows @ NYU course, Inference and Representations
 
+![forecasting](assets/img/only_some_stationary.png)
+
+---
 
 (Fall 2023) talk on diffusions + flows @ [Decisions, Risk and Operations](https://business.columbia.edu/faculty/divisions/dro) ML reading group at Columbia, organized by Hongseok Namkoong!
 
