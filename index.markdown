@@ -118,7 +118,13 @@ Work done as part of my internship at Apple Health AI.
 
 (Fall 2021) selected as a recipient of the NeurIPS 2021 Outstanding Reviewer Award. Glad to be a part of it!
 
+---
+
 (Fall 2021) accepted to NeurIPS 2021: [Inverse-Weighted Survival Games](https://arxiv.org/pdf/2111.08175.pdf)
+
+![games](assets/img/games.png)
+
+---
 
 (Summer 2021) working with Apple's Health AI team this summer supervised by [Andy Miller](https://andymiller.github.io/) and team!
 	
