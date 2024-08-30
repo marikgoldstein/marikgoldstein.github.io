@@ -79,7 +79,7 @@ Also available on [arxiv](https://arxiv.org/abs/2303.12888).
 
 (Fall 2023) lecture on diffusions + flows @ NYU course, Inference and Representations
 
-![forecasting](assets/img/only_some_stationary.png)
+![some_stationary](assets/img/only_some_stationary.png)
 
 ---
 
@@ -91,7 +91,7 @@ Also available on [arxiv](https://arxiv.org/abs/2303.12888).
 
 (Spring 2023) accepted to ICLR 2023: [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2302.07261) 
 
-![forecasting](assets/img/stationary.png)
+![stationary](assets/img/stationary.png)
 
 ---
 
@@ -101,7 +101,13 @@ Also available on [arxiv](https://arxiv.org/abs/2303.12888).
 
 (Summer 2022) excited to be co-organizing the [ICML Workshop on Spurious Correlations, Invariance, and Stability](https://sites.google.com/view/scis-workshop/home)!
 
+---
+
 (Summer 2022) accepted to Machine Learning for Healthcare 2022: [Survival Mixture Density Networks](https://arxiv.org/pdf/2208.10759.pdf)
+
+![smdn](assets/img/smdn.png)
+
+---
 
 (Summer 2022) glad to continue at Apple Health AI for the summer!
 
