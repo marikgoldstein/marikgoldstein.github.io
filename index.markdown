@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
 
 ## About Me
 
@@ -36,7 +35,7 @@ In the context of healthcare, I believe conditional generative models, under the
 (Summer-Fall 2024) student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/)!
 
 ---
-## [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)
+<h1> [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740) </h1>
 
 **with Nanye (Willis) Michael Albergo, Nicholas Boffi, Eric Vanden-Eijnden, and Saining Xie**
 
