@@ -51,8 +51,8 @@ In the context of healthcare, I believe conditional generative models, under the
 
 ---
 
-## [What's the score? Automated Denoising Score Matching for Nonlinear Diffusions](https://arxiv.org/abs/2407.07998)
-#
+### [What's the score? Automated Denoising Score Matching for Nonlinear Diffusions](https://arxiv.org/abs/2407.07998)
+
 **with Raghav Singhal and Rajesh Ranganath**
 
 *Published in ICML 2024*
@@ -93,7 +93,7 @@ Also available on [arxiv](https://arxiv.org/abs/2303.12888).
 
 ### [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451)
 
-**With Hao Zhang, Rajesh Ranganath, and many others**
+**with Hao Zhang, Rajesh Ranganath, and many others**
 
 *published in Journals of the American College of Cardiology, Clinical Electrophysiology*
 
@@ -129,7 +129,11 @@ Also available on [arxiv](https://arxiv.org/abs/2303.12888).
 
 ---
 
-(Summer 2022) accepted to Machine Learning for Healthcare 2022: [Survival Mixture Density Networks](https://arxiv.org/pdf/2208.10759.pdf)
+### [Survival Mixture Density Networks](https://arxiv.org/pdf/2208.10759.pdf)
+
+**with Xintian Han and Rajesh Ranganath**
+
+*published in Machine Learning for Healthcare 2022*
 
 ![smdn](assets/img/smdn.png)
 
