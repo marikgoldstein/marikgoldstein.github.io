@@ -145,16 +145,11 @@ Also available on [arxiv](https://arxiv.org/abs/2303.12888).
 
 ### [Learning Invariant Representations with Missing Data](https://arxiv.org/pdf/2112.00881.pdf)
 
-**With Aahlad Puli, Adriel Saporta, Olina Chau, Jorn-Henrik Jacobsen, Rajesh Ranganath, and Andrew C. Miller
+**With Aahlad Puli, Adriel Saporta, Olina Chau, Jorn-Henrik Jacobsen, Rajesh Ranganath, and Andrew C. Miller**
 
-*Published in CLeaR (Causal Learning and Reasoning) 2022*
+*Published in CLeaR (Causal Learning and Reasoning) 2022* and *appeared in NeurIPS 2021 DistShift Workshop*
 
 ![clear_mnist](assets/img/clear_mnist.png)
-
----
-
-(Fall 2021) accepted to NeurIPS 2021 DistShift Workshop: [Learning Invariant Representations with Missing Data](https://arxiv.org/pdf/2112.00881.pdf) 
-Work done as part of my internship at Apple Health AI.
 
 ---
 
@@ -164,7 +159,11 @@ Work done as part of my internship at Apple Health AI.
 
 ---
 
-(Fall 2021) accepted to NeurIPS 2021: [Inverse-Weighted Survival Games](https://arxiv.org/pdf/2111.08175.pdf)
+### [Inverse-Weighted Survival Games](https://arxiv.org/pdf/2111.08175.pdf)
+
+**With Xintian Han, Aahlad Puli, Thomas Wies, Adler J Perotte, and Rajesh Ranganath**
+
+*Published in NeurIPS 2021*
 
 ![games](assets/img/games.png)
 
