@@ -35,7 +35,7 @@ In the context of healthcare, I believe conditional generative models, under the
 (Summer-Fall 2024) student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/)!
 
 ---
-## [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)
+### [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)
 
 **with Nanye (Willis) Michael Albergo, Nicholas Boffi, Eric Vanden-Eijnden, and Saining Xie**
 
@@ -52,7 +52,7 @@ In the context of healthcare, I believe conditional generative models, under the
 ---
 
 ## [What's the score? Automated Denoising Score Matching for Nonlinear Diffusions](https://arxiv.org/abs/2407.07998)
-
+#
 **with Raghav Singhal and Rajesh Ranganath**
 
 *Published in ICML 2024*
@@ -61,7 +61,7 @@ In the context of healthcare, I believe conditional generative models, under the
 
 ---
 
-[Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725)
+### [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725)
 
 **with Michael Albergo, Nick Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden**
 
@@ -70,7 +70,7 @@ In the context of healthcare, I believe conditional generative models, under the
 ![couplings](assets/img/couplings.png)
 
 ---
-## [probabilistic forecasting with stochastic interpolants and Föllmer processes](https://arxiv.org/abs/2403.13724)!
+### [probabilistic forecasting with stochastic interpolants and Föllmer processes](https://arxiv.org/abs/2403.13724)!
 
 **with Yifan Chen, Mengjian Hua, Michael Albergo, Nicholas Boffi, and Eric Vanden-Eijnden**
 
@@ -79,9 +79,13 @@ In the context of healthcare, I believe conditional generative models, under the
 ![forecasting](assets/img/forecasting.png)
 
 ---
-(Spring 2024) accepted to European Heart Journal, Acute Cardiovascular Care: 
-[A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuae037/7633877)
+
+### [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuae037/7633877)
 Also available on [arxiv](https://arxiv.org/abs/2303.12888). 
+
+**with Yuxuan Hu, Rajesh Ranganath, and many others**
+
+*Published in European Heart Journal, Acute Cardiovascular Care*
 
 ![cshock](assets/img/cshock.png)
 
