@@ -82,7 +82,13 @@ Also available on [arxiv](https://arxiv.org/abs/2303.12888).
 
 (Summer 2023)  We are running the second iteration of the workshop on Spurious Correlations, Invariance, and Stability at ICML 2023! 
 
+---
+
 (Spring 2023) accepted to ICLR 2023: [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2302.07261) 
+
+![forecasting](assets/img/stationary.png)
+
+---
 
 (Fall 2022) lecture on diffusions @ Yann LeCun's deep learning course at NYU!
 
