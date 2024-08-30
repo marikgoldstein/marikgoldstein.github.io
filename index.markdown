@@ -35,7 +35,7 @@ In the context of healthcare, I believe conditional generative models, under the
 (Summer-Fall 2024) student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/)!
 
 ---
-<h1> [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740) </h1>
+## [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)
 
 **with Nanye (Willis) Michael Albergo, Nicholas Boffi, Eric Vanden-Eijnden, and Saining Xie**
 
@@ -51,7 +51,7 @@ In the context of healthcare, I believe conditional generative models, under the
 
 ---
 
-## [What's the score? Automated Denoising Score Matching for Nonlinear Diffusions](https://arxiv.org/abs/2407.07998)!
+## [What's the score? Automated Denoising Score Matching for Nonlinear Diffusions](https://arxiv.org/abs/2407.07998)
 
 **with Raghav Singhal and Rajesh Ranganath**
 
@@ -60,8 +60,12 @@ In the context of healthcare, I believe conditional generative models, under the
 ![localdsm](assets/img/localdsm.png)
 
 ---
-(Spring 2024) accepted to ICML 2024 (**spotlight paper**): [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725) ! 
-<!--with Michael Albergo, Nick Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden! This work is on choosing data-dependent base distributions for continuous-time flows! -->
+
+[Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725)
+
+**with Michael Albergo, Nick Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden**
+
+*Spotlight in ICML 2024*
 
 ![couplings](assets/img/couplings.png)
 
