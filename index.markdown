@@ -116,7 +116,11 @@ Also available on [arxiv](https://arxiv.org/abs/2303.12888).
 (Fall 2021) accepted to NeurIPS 2021 DistShift Workshop: [Learning Invariant Representations with Missing Data](https://arxiv.org/pdf/2112.00881.pdf) 
 Work done as part of my internship at Apple Health AI.
 
+---
+
 (Fall 2021) selected as a recipient of the NeurIPS 2021 Outstanding Reviewer Award. Glad to be a part of it!
+
+![openreview](assets/img/openreview.png)
 
 ---
 
@@ -127,8 +131,14 @@ Work done as part of my internship at Apple Health AI.
 ---
 
 (Summer 2021) working with Apple's Health AI team this summer supervised by [Andy Miller](https://andymiller.github.io/) and team!
-	
-(Spring 2021) accepted to ICML 2021: [Understanding Failures in Out-of-Distribution Detection with Deep Generative Models](https://arxiv.org/pdf/2107.06908.pdf) (full version)
+
+---
+ 
+(Spring 2021) accepted to ICML 2021: [Understanding Failures in Out-of-Distribution Detection with Deep Generative Models](https://arxiv.org/pdf/2107.06908.pdf)
+
+![ood](assets/img/ood.png)
+
+---
 
 (Spring 2021) accepted to RobustML workshop @ ICLR 2021 [Understanding Out-of-Distribution Detection with Deep Generative Models](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-045) 
 
