@@ -32,7 +32,11 @@ In the context of healthcare, I believe conditional generative models, under the
 
 (October 2024) giving a talk in [Pieter Abbeel's](https://people.eecs.berkeley.edu/~pabbeel/) [group](https://rll.berkeley.edu/). Topic: Stochastic Interpolants.
 
+---
+
 (Summer-Fall 2024) student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/)!
+
+ ![deepmind](assets/img/deepmind.png)
 
 ---
 ### [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)
