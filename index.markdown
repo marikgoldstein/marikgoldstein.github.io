@@ -115,7 +115,11 @@ Also available on [arxiv](https://arxiv.org/abs/2303.12888).
 
 ---
 
-(Spring 2023) accepted to ICLR 2023: [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2302.07261) 
+### [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2302.07261) 
+
+**With Raghav Singhal and Rajesh Ranganath**
+
+*Published in ICLR 2023*
 
 ![stationary](assets/img/stationary.png)
 
@@ -161,7 +165,7 @@ Also available on [arxiv](https://arxiv.org/abs/2303.12888).
 
 ### [Inverse-Weighted Survival Games](https://arxiv.org/pdf/2111.08175.pdf)
 
-**With Xintian Han, Aahlad Puli, Thomas Wies, Adler J Perotte, and Rajesh Ranganath**
+**With Xintian Han, Aahlad Puli, Thomas Wies, Adler J. Perotte, and Rajesh Ranganath**
 
 *Published in NeurIPS 2021*
 
@@ -173,7 +177,11 @@ Also available on [arxiv](https://arxiv.org/abs/2303.12888).
 
 ---
  
-(Spring 2021) accepted to ICML 2021: [Understanding Failures in Out-of-Distribution Detection with Deep Generative Models](https://arxiv.org/pdf/2107.06908.pdf)
+### [Understanding Failures in Out-of-Distribution Detection with Deep Generative Models](https://arxiv.org/pdf/2107.06908.pdf)
+
+**With Lily H. Zhang and Rajesh Ranganath**
+
+*Published in ICML 2021*
 
 ![ood](assets/img/ood.png)
 
@@ -187,8 +195,15 @@ Also available on [arxiv](https://arxiv.org/abs/2303.12888).
 
 (Fall 2020) the deep learning course I TA'ed in spring 2020 for [Yann LeCun](http://yann.lecun.com/) and Alfredo Canziani is now up on [Alf's github page](https://atcold.github.io/pytorch-Deep-Learning/), check out all of Alf's wonderful teaching materials and thanks to students for your notetaking
 
-(Fall 2020) accepted to NeurIPS 2020: [X-CAL: Explicit Calibration for Survival Analysis](https://arxiv.org/pdf/2101.05346.pdf)
+---
 
+### [X-CAL: Explicit Calibration for Survival Analysis](https://arxiv.org/pdf/2101.05346.pdf)
+
+**With Xintian Han, Aahlad Puli, Adler J. Perotte, and Rajesh Ranganath**
+
+*Published in NeurIPS 2020* 
+
+---
 (Summer 2019) I'm working in [Emtiyaz Khan's](https://emtiyaz.github.io/) Approximate Bayesian Inference group at [RIKEN AIP](https://aip.riken.jp/) in Tokyo!
 
 (2018) MacCracken Fellow, NYU Graduate School of Arts and Sciences, Five years of PhD funding.
