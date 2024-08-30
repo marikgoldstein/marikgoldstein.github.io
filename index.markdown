@@ -81,11 +81,10 @@ In the context of healthcare, I believe conditional generative models, under the
 ---
 
 ### [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuae037/7633877)
-Also available on [arxiv](https://arxiv.org/abs/2303.12888). 
 
 **with Yuxuan Hu, Rajesh Ranganath, and many others**
 
-*Published in European Heart Journal, Acute Cardiovascular Care*
+*Published in European Heart Journal, Acute Cardiovascular Care*. *Also available on [arxiv](https://arxiv.org/abs/2303.12888).*
 
 ![cshock](assets/img/cshock.png)
 
