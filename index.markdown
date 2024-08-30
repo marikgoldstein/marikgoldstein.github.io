@@ -35,7 +35,7 @@ In the context of healthcare, I believe conditional generative models, under the
 
 ---
 ## [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)!
-### ECCV 2024: 
+**ECCV 2024**: 
 
  ![sit](assets/img/sit2.png)
 
