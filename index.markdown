@@ -53,6 +53,8 @@ In the context of healthcare, I believe conditional generative models, under the
 
 (Spring 2024) honored to receive the Henning Biermann Prize for teaching by a PhD student at NYU Courant!
 
+ ![courant](assets/img/courant.png)
+
 ---
 
 ### [What's the score? Automated Denoising Score Matching for Nonlinear Diffusions](https://arxiv.org/abs/2407.07998)
