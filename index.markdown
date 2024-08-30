@@ -16,7 +16,7 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 
 ## On my mind 
 
-Large transformers perform well on discrete data tasks and are typically trained to maximize the likelihood of sequences of such data. In contrast, diffusion and flow models are predominantly explored in the context of natural images and videos, and they are not typically trained to maximize likelihood. Diffusion models have also found success in applications to proteins, audio, and text. 
+Large transformers perform well on discrete data tasks and are typically trained to maximize likelihood. In contrast, diffusion and flow models are predominantly explored in the context of natural images and videos, and are not typically trained for likelihood. Diffusion models have also found success in applications to proteins, audio, and text. 
 
 The prevailing view is that diffusion and related models are particularly useful for addressing conditional problems in scenarios with limited data—at scale where prompting doesn't arise—or when there is no clear autoregressive ordering of the data. These models are also advantageous in cases where energy functions are known or when informative bits are unevenly distributed across data dimensions. These characteristics make diffusion-like approaches promising for scientific applications, such as solving inverse problems in high dimensions, tackling sampling problems in physics on large lattices, molecular docking under specific conditions, entropy computation in time-varying systems, and accelerating MRIs.
 
