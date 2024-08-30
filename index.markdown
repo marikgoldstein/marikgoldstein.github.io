@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
+
 ## About Me
 
 I am a PhD candidate at NYU Courant Institute of Mathematical Sciences, [CILVR group](https://wp.nyu.edu/cilvr/),
