@@ -35,8 +35,9 @@ In the context of healthcare, I believe conditional generative models, under the
 
 ---
 ## [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740) (
-ECCV 2024.
-with Nanye (Willis) Michael Albergo, Nicholas Boffi, Eric Vanden-Eijnden, and Saining Xie
+**ECCV 2024.**
+
+**With Nanye (Willis) Michael Albergo, Nicholas Boffi, Eric Vanden-Eijnden, and Saining Xie**
 
  ![sit](assets/img/sit2.png)
 
