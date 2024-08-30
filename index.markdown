@@ -36,7 +36,7 @@ In the context of healthcare, I believe conditional generative models, under the
 ---
 ## [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)
 
-**With Nanye (Willis) Michael Albergo, Nicholas Boffi, Eric Vanden-Eijnden, and Saining Xie**
+**with Nanye (Willis) Michael Albergo, Nicholas Boffi, Eric Vanden-Eijnden, and Saining Xie**
 
 *Published in ECCV 2024*
 
@@ -49,8 +49,12 @@ In the context of healthcare, I believe conditional generative models, under the
 (Spring 2024) honored to receive the Henning Biermann Prize for teaching by a PhD student at NYU Courant!
 
 ---
-(Spring 2024) accepted to ICML 2024: [What's the score? Automated Denoising Score Matching for Nonlinear Diffusions
-](https://arxiv.org/abs/2407.07998)!
+
+## [What's the score? Automated Denoising Score Matching for Nonlinear Diffusions](https://arxiv.org/abs/2407.07998)!
+
+**with Raghav Singhal and Rajesh Ranganath**
+
+*Published in ICML 2024*
 
 ![localdsm](assets/img/localdsm.png)
 
@@ -61,8 +65,11 @@ In the context of healthcare, I believe conditional generative models, under the
 ![couplings](assets/img/couplings.png)
 
 ---
-(Spring 2024) accepted to ICML 2024: [probabilistic forecasting with stochastic interpolants and Föllmer processes](https://arxiv.org/abs/2403.13724)!
-  <!--with Yifan Chen, Mengjian Hua, Michael S. Albergo, Nicholas M. Boffi, and Eric Vanden-Eijnden.-->
+## [probabilistic forecasting with stochastic interpolants and Föllmer processes](https://arxiv.org/abs/2403.13724)!
+
+**with Yifan Chen, Mengjian Hua, Michael Albergo, Nicholas Boffi, and Eric Vanden-Eijnden**
+
+*Published in ICML 2024*
 
 ![forecasting](assets/img/forecasting.png)
 
