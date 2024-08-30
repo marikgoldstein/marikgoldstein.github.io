@@ -217,10 +217,10 @@ In the context of healthcare, I believe conditional generative models, under the
 - mentor for [Women in Data Science Datathon](https://www.widscambridge.org/datathon), Cambridge, 2021. 
 
 ## Courses I've TA'ed/TF'ed:
-- NYU, CSCI-GA.2565: Machine Learning. Prof: Rajesh Ranganath. Spring 2022.
-- NYU, CSCI-GA.2565: Machine Learning. Prof: Rajesh Ranganath. Spring 2021.
-- NYU, CSCI-GA.2572: Deep Learning. Prof: Yann LeCun. Spring 2020.
-- NYU, CSCI-GA.2565: Machine Learning. Prof: Rajesh Ranganath. Fall 2019.
+- NYU, Machine Learning. Prof: Rajesh Ranganath. Spring 2022.
+- NYU, Machine Learning. Prof: Rajesh Ranganath. Spring 2021.
+- NYU, Deep Learning. Prof: Yann LeCun. Spring 2020.
+- NYU, Machine Learning. Prof: Rajesh Ranganath. Fall 2019.
 - Harvard, CS 181: Machine Learning. Profs: Finale Doshi-Velez and David Parkes. Spring 2021.
 - Harvard, CS 252: Programming Languages and Artificial Intelligence. Prof: Nada Amin. Fall 2020.
 - Harvard, CS 181: Machine Learning. Prof: Finale Doshi-Velez. Spring 2018.
@@ -229,8 +229,15 @@ In the context of healthcare, I believe conditional generative models, under the
 - Harvard, CS 181: Machine Learning. Profs: David Parkes and Sasha Rush. Spring 2017.
 - Harvard, CS 61: Systems Programming and Machine Organization. Profs: Margo Seltzer and Eddie Kohler. Fall 2016.
 
+<!--
+- NYU, CSCI-GA.2565: Machine Learning. Prof: Rajesh Ranganath. Spring 2022.
+- NYU, CSCI-GA.2565: Machine Learning. Prof: Rajesh Ranganath. Spring 2021.
+- NYU, CSCI-GA.2572: Deep Learning. Prof: Yann LeCun. Spring 2020.
+- NYU, CSCI-GA.2565: Machine Learning. Prof: Rajesh Ranganath. Fall 2019.
+-->
+
 ## I usually review for 
-- NeurIPS, ICML, ICLR, AAAI, AISTATS, CLeaR, misc workshops
+- NeurIPS, ICML, ICLR, AAAI, AISTATS, CLeaR, JMLR, misc workshops
 
 ## In a previous life
 
