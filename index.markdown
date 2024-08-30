@@ -181,13 +181,11 @@ Also available on [arxiv](https://arxiv.org/abs/2303.12888).
 
 **With Lily H. Zhang and Rajesh Ranganath**
 
-*Published in ICML 2021*
+*Published in ICML 2021* and *appeared in RobustML workshop @ ICLR 2021*
 
 ![ood](assets/img/ood.png)
 
 ---
-
-(Spring 2021) accepted to RobustML workshop @ ICLR 2021 [Understanding Out-of-Distribution Detection with Deep Generative Models](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-045) 
 
 (Fall 2020) I qualified! Upgrade from Student to Candidate. 
 
