@@ -95,7 +95,7 @@ Also available on [arxiv](https://arxiv.org/abs/2303.12888).
 
 **with Hao Zhang, Rajesh Ranganath, and many others**
 
-*published in Journals of the American College of Cardiology, Clinical Electrophysiology*
+*Published in Journals of the American College of Cardiology, Clinical Electrophysiology*
 
 ---
 
@@ -133,7 +133,7 @@ Also available on [arxiv](https://arxiv.org/abs/2303.12888).
 
 **with Xintian Han and Rajesh Ranganath**
 
-*published in Machine Learning for Healthcare 2022*
+*Published in Machine Learning for Healthcare 2022*
 
 ![smdn](assets/img/smdn.png)
 
@@ -143,7 +143,11 @@ Also available on [arxiv](https://arxiv.org/abs/2303.12888).
 
 ---
 
-(Spring 2022) accepted to CLeaR (Causal Learning and Reasoning) 2022: [Learning Invariant Representations with Missing Data](https://arxiv.org/pdf/2112.00881.pdf) (full version)
+### [Learning Invariant Representations with Missing Data](https://arxiv.org/pdf/2112.00881.pdf)
+
+**With Aahlad Puli, Adriel Saporta, Olina Chau, Jorn-Henrik Jacobsen, Rajesh Ranganath, and Andrew C. Miller
+
+*Published in CLeaR (Causal Learning and Reasoning) 2022*
 
 ![clear_mnist](assets/img/clear_mnist.png)
 
