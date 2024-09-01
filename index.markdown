@@ -183,6 +183,10 @@ In the context of healthcare, I believe conditional generative models, under the
 
 (Summer 2021) working with Apple's Health AI team this summer supervised by [Andy Miller](https://andymiller.github.io/) and team!
 
+![apple_watch](assets/img/apple_watch.png)
+
+(photo by Julian Chokkattu/Digital Trends)
+
 ---
  
 ### [Understanding Failures in Out-of-Distribution Detection with Deep Generative Models](https://arxiv.org/pdf/2107.06908.pdf)
