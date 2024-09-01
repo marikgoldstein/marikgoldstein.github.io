@@ -197,7 +197,7 @@ In the context of healthcare, I believe conditional generative models, under the
 
 (Fall 2020) I qualified! Upgrade from Student to Candidate. 
 
-(Fall 2020) after some time away from harvard cs, happy to help out Prof [Nada Amin](https://namin.seas.harvard.edu/people/nada-amin) with the harvard AI/PL seminar 
+(Fall 2020) after some time away from harvard cs, happy to help out Prof [Nada Amin](https://namin.seas.harvard.edu/people/nada-amin) with the [harvard AI/PL seminar](https://pl-ai-seminar.seas.harvard.edu/) 
 
 (Fall 2020) the deep learning course I TA'ed in spring 2020 for [Yann LeCun](http://yann.lecun.com/) and Alfredo Canziani is now up on [Alf's github page](https://atcold.github.io/NYU-DLSP20/), check out all of Alf's wonderful teaching materials and thanks to students for your notetaking
 
