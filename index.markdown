@@ -33,6 +33,15 @@ In the context of healthcare, I believe conditional generative models, under the
 (October 2024) giving a talk in [Pieter Abbeel's](https://people.eecs.berkeley.edu/~pabbeel/) [group](https://rll.berkeley.edu/). Topic: Stochastic Interpolants.
 
 ---
+### [Contrasting with Symile: Simple Model-Agnostic Representation Learning for Unlimited Modalities]
+
+**with Adriel Saporta, Aahlad Puli, and Rajesh Ranganath**
+
+*Published in NeurIPS 2024*
+
+![symile](assets/img/symile.png)
+
+---
 
 (Summer-Fall 2024) student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/)!
 
