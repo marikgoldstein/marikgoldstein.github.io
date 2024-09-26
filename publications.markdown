@@ -17,6 +17,11 @@ Forthcoming, 2024. Work by Aahlad Puli, Yoav wald, me, Maggie Makar, and Rajesh 
 * forthcoming: Does it really transport? A grounded validation of transportability and its application to EHR-based risk models for Coronary Artery Disease.
 Forthcoming, 2024. Work by Shreyas Bhave\*, Aahlad Puli\*, me\*, Mert Ketenci, Noémie Elhadad, Adler Perotte and Rajesh Ranganath.
 -->
+
+* Contrasting with Symile: Simple Model-Agnostic Representation Learning for Unlimited Modalities.
+NeurIPS, 2024.
+Work by Adriel Saporta\*, Aahlad Puli, me, and Rajesh Ranganath.
+
 * [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740).
 European Conference on Computer Vision (ECCV), 2024.
 Work by Nanye Willis Ma\*, me, Michael Albergo, Nick Boffi, Eric Vanden-Eijnden, and Saining Xie.
