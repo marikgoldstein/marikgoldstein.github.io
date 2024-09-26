@@ -34,7 +34,7 @@ In the context of healthcare, I believe conditional generative models, under the
 
 ---
 
-(October 2024) giving a talk in [Chi Jin's](https://sites.google.com/corp/view/cjin/home) group. Topic: Continuous and Discrete Diffusion.
+(October 2024) giving a talk in [Chi Jin's](https://sites.google.com/corp/view/cjin/home) group at Princeton. Topic: Continuous and Discrete Diffusion.
 
 ---
 ### [Contrasting with Symile: Simple Model-Agnostic Representation Learning for Unlimited Modalities]
