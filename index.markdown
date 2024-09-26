@@ -30,7 +30,11 @@ In the context of healthcare, I believe conditional generative models, under the
 ## News
 
 
-(October 2024) giving a talk in [Pieter Abbeel's](https://people.eecs.berkeley.edu/~pabbeel/) [group](https://rll.berkeley.edu/). Topic: Stochastic Interpolants.
+(October 2024) giving a talk in [Pieter Abbeel's](https://people.eecs.berkeley.edu/~pabbeel/) [group](https://rll.berkeley.edu/) at UC Berkeley. Topic: Continuous and Discrete Diffusion.
+
+---
+
+(October 2024) giving a talk in [Chi Jin's](https://sites.google.com/corp/view/cjin/home) group. Topic: Continuous and Discrete Diffusion.
 
 ---
 ### [Contrasting with Symile: Simple Model-Agnostic Representation Learning for Unlimited Modalities]
