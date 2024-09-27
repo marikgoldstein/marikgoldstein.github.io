@@ -14,8 +14,12 @@ I've started looking for postdoc positions + jobs for summer/fall 2025. Feel fre
 
 feel free to anonymously give me comments/suggestions/feedback [here](https://docs.google.com/forms/d/e/1FAIpQLScr3QyHx5EmLy8OLmX6lCuZZxCILdCqJRywaBSnFShyzdvmWQ/viewform?usp=sf_link)
 
-## On my mind 
 
+
+## On my mind 
+- discrete diffusion models!
+
+<!--
 Large transformers perform well on discrete data tasks and are typically trained to maximize likelihood. In contrast, diffusion and flow models are predominantly explored in the context of natural images and videos, and are not typically trained for likelihood. Diffusion models have also found success in applications to proteins, audio, and text. 
 
 The prevailing view is that diffusion and related models are particularly useful for addressing conditional problems in scenarios with limited data—at scale where prompting doesn't arise—or when there is no clear autoregressive ordering of the data. These models are also advantageous in cases where energy functions are known or when informative bits are unevenly distributed across data dimensions. These characteristics make diffusion-like approaches promising for scientific applications, such as solving inverse problems in high dimensions, tackling sampling problems in physics on large lattices, molecular docking under specific conditions, entropy computation in time-varying systems, and accelerating MRIs.
@@ -26,6 +30,7 @@ More broadly, how should we proceed when most non-autoregressive generative mode
 
 In the context of healthcare, I believe conditional generative models, under the right assumptions, could help address certain challenges in machine learning for electronic health records (EHRs). However, we may not be utilizing these models effectively. For instance, it would be beneficial to model the true distribution of a person's outcome given the available features, without inadvertently conditioning on the implicit and likely non-transportable feature missingness pattern itself. Achieving this properly might require a blend of expertise and could benefit from collaboration between fields such as generative models and causal inference. Additionally, how can we better assess the transportability and clinical relevance of the models we build, especially when it is so challenging to move models built in hospital settings?
 
+--> 
 
 ## News
 
