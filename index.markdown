@@ -281,7 +281,7 @@ that performs the repetoire of the courts of Central Java.
 
 ## playlist 
 
-[sept 7, 2024] [Djoko Walujo - gender - Ldr. Pangkur sl. manyura](https://www.youtube.com/watch?v=uqpk2zgt8xo)
+[sept 7, 2024] [Djoko Walujo - gender - Ldr. Pangkur sl. manyura](https://www.youtube.com/watch?v=uqpk2zgt8xo)  
 [sept 2, 2024] [Zé Kéti - Poema de Botequim](https://www.youtube.com/watch?v=nIXCrOJP_WE) 
 
 
