@@ -281,7 +281,7 @@ that performs the repetoire of the courts of Central Java.
 
 ## playlist 
 
-[oct 26, 2024] [Bill Evans - On Green Dolphin Street](https://www.youtube.com/watch?v=k6Q8vW_mqTE)
+[oct 26, 2024] [Bill Evans - On Green Dolphin Street](https://www.youtube.com/watch?v=k6Q8vW_mqTE)  
 [sept 7, 2024] [Djoko Walujo - gender - Ldr. Pangkur sl. manyura](https://www.youtube.com/watch?v=uqpk2zgt8xo)  
 [sept 2, 2024] [Zé Kéti - Poema de Botequim](https://www.youtube.com/watch?v=nIXCrOJP_WE) 
 
