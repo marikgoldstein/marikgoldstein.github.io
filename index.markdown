@@ -35,6 +35,10 @@ In the context of healthcare, I believe conditional generative models, under the
 ## News
 
 
+(December 2024) giving a talk at IBM Research, Mathematical Sciences Division (Yorktown Heights, NY). Topic Continuous and Discrete Diffusion.
+
+---
+
 (November 2024) giving a talk in [Chi Jin's](https://sites.google.com/corp/view/cjin/home) group at Princeton. Topic: Continuous and Discrete Diffusion.
 
 ---
