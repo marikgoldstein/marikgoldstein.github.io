@@ -42,10 +42,13 @@ In the context of healthcare, I believe conditional generative models, under the
 (November 2024) giving a talk in [Chi Jin's](https://sites.google.com/corp/view/cjin/home) group at Princeton. Topic: Continuous and Discrete Diffusion.
 
 ---
-(October 2024) giving a talk in [Pieter Abbeel's](https://people.eecs.berkeley.edu/~pabbeel/) [group](https://rll.berkeley.edu/) at UC Berkeley. Topic: Continuous and Discrete Diffusion.
+
+<!--
+--- (October 2024) giving a talk in [Pieter Abbeel's](https://people.eecs.berkeley.edu/~pabbeel/) [group](https://rll.berkeley.edu/) at UC Berkeley. Topic: Continuous and Discrete Diffusion.
 
 ---
-### [Contrasting with Symile: Simple Model-Agnostic Representation Learning for Unlimited Modalities]
+-->
+### [Contrasting with Symile: Simple Model-Agnostic Representation Learning for Unlimited Modalities](https://arxiv.org/abs/2411.01053)
 
 **with Adriel Saporta, Aahlad Puli, and Rajesh Ranganath**
 
