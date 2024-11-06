@@ -18,7 +18,7 @@ Forthcoming, 2024. Work by Aahlad Puli, Yoav wald, me, Maggie Makar, and Rajesh 
 Forthcoming, 2024. Work by Shreyas Bhave\*, Aahlad Puli\*, me\*, Mert Ketenci, Noémie Elhadad, Adler Perotte and Rajesh Ranganath.
 -->
 
-* Contrasting with Symile: Simple Model-Agnostic Representation Learning for Unlimited Modalities.
+* [Contrasting with Symile: Simple Model-Agnostic Representation Learning for Unlimited Modalities](https://arxiv.org/abs/2411.01053).
 NeurIPS, 2024.
 Work by Adriel Saporta\*, Aahlad Puli, me, and Rajesh Ranganath.
 
