@@ -37,15 +37,15 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 - [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2302.07261) at **ICLR 2023**.
 - (talk, Fall 2022) talk on diffusions @ the Flatiron Institute's [workshop on Sampling, Transport, and Diffusions](https://sites.google.com/view/sampling-transport-diffusions/home)!
 - (organizing, Summer 2022) excited to be co-organizing the [ICML Workshop on Spurious Correlations, Invariance, and Stability](https://sites.google.com/view/scis-workshop/home)!
-- (paper, MLHC 2022) [Survival Mixture Density Networks](https://arxiv.org/pdf/2208.10759.pdf)
-- (Summer 2022) glad to continue at Apple Health AI for the summer!
+- [Survival Mixture Density Networks](https://arxiv.org/pdf/2208.10759.pdf) at **MLHC 2022**.
+- glad to continue at Apple Health AI for summer 2022!
 - [Learning Invariant Representations with Missing Data](https://arxiv.org/pdf/2112.00881.pdf) at **CLeaR 2022**.
 - [Inverse-Weighted Survival Games](https://arxiv.org/pdf/2111.08175.pdf) at **NeurIPS 2021**.
 - (Summer 2021) working with Apple's Health AI team this summer supervised by [Andy Miller](https://andymiller.github.io/) and team!
 - [Understanding Failures in Out-of-Distribution Detection with Deep Generative Models](https://arxiv.org/pdf/2107.06908.pdf) at **ICML 2021**.
 - (Fall 2020) I qualified! Upgrade from Student to Candidate. 
 - [X-CAL: Explicit Calibration for Survival Analysis](https://arxiv.org/pdf/2101.05346.pdf) at **NeurIPS 2020**.
-- (Summer 2019) I'm working in [Emtiyaz Khan's](https://emtiyaz.github.io/) Approximate Bayesian Inference group at [RIKEN AIP](https://aip.riken.jp/) in Tokyo!
+- I'm working in [Emtiyaz Khan's](https://emtiyaz.github.io/) Approximate Bayesian Inference group at [RIKEN AIP](https://aip.riken.jp/) in Tokyo for Summer 2019!
 
 <!--
 - (teaching, Fall 2023) lecture on diffusions + flows @ NYU course, Inference and Representations
