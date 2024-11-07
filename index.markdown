@@ -30,7 +30,7 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 - [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725). *Spotlight* at **ICML 2024**.
 - [Probabilistic forecasting with stochastic interpolants and Föllmer processes](https://arxiv.org/abs/2403.13724) at **ICML 2024**.
 - [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuae037/7633877) at **European Heart Jornal**.
-- [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451) at **JACC, Clinical Electrophysiology)**.
+- [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451) at **JACC, Clinical Electrophysiology**.
 - (participating, Fall 2023) taking part @ Flatiron Institute’s upcoming second workshop on Measure Transport, Sampling, and Diffusions!
 - (talk, Fall 2023) talk on diffusions + flows @ [Decisions, Risk and Operations](https://business.columbia.edu/faculty/divisions/dro) ML reading group at Columbia, organized by Hongseok Namkoong!
 - We are running the second iteration of the workshop on Spurious Correlations, Invariance, and Stability at **ICML 2023**. 
@@ -41,7 +41,7 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 - glad to continue at Apple Health AI for summer 2022!
 - [Learning Invariant Representations with Missing Data](https://arxiv.org/pdf/2112.00881.pdf) at **CLeaR 2022**.
 - [Inverse-Weighted Survival Games](https://arxiv.org/pdf/2111.08175.pdf) at **NeurIPS 2021**.
-- (Summer 2021) working with Apple's Health AI team this summer supervised by [Andy Miller](https://andymiller.github.io/) and team!
+- working with Apple's Health AI team during summer 2021, supervised by [Andy Miller](https://andymiller.github.io/) and team!
 - [Understanding Failures in Out-of-Distribution Detection with Deep Generative Models](https://arxiv.org/pdf/2107.06908.pdf) at **ICML 2021**.
 - (Fall 2020) I qualified! Upgrade from Student to Candidate. 
 - [X-CAL: Explicit Calibration for Survival Analysis](https://arxiv.org/pdf/2101.05346.pdf) at **NeurIPS 2020**.
