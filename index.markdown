@@ -32,7 +32,7 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 - [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuae037/7633877) at **European Heart Jornal**.
 - [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451) at **JACC, Clinical Electrophysiology**.
 - taking part @ Flatiron Institute’s second workshop on Measure Transport, Sampling, and Diffusions, Fall 2023!
-- (talk, Fall 2023) talk on diffusions + flows @ [Decisions, Risk and Operations](https://business.columbia.edu/faculty/divisions/dro) ML reading group at Columbia, organized by Hongseok Namkoong!
+- talk @ [Decisions, Risk and Operations](https://business.columbia.edu/faculty/divisions/dro) ML reading group at Columbia, Fall 2023.
 - We are running the second iteration of the workshop on Spurious Correlations, Invariance, and Stability at **ICML 2023**. 
 - [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2302.07261) at **ICLR 2023**.
 - talk at @ Flatiron Institute's [workshop on Sampling, Transport, and Diffusions](https://sites.google.com/view/sampling-transport-diffusions/home), Fall 2022!
