@@ -22,29 +22,53 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 ## News
 
 - talk @ IBM Research, December 2024.
+  
 - talk @ [Chi Jin's](https://sites.google.com/corp/view/cjin/home) group at Princeton, November 2024.
+  
 - [Contrasting with Symile: Simple Model-Agnostic Representation Learning for Unlimited Modalities](https://arxiv.org/abs/2411.01053) at **NeurIPS 2024**.
+  
 - student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/), June-Dec 2024!
+  
 - [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740) at **ECCV 2024.**
+  
 - [What's the score? Automated Denoising Score Matching for Nonlinear Diffusions](https://arxiv.org/abs/2407.07998) at **ICML 2024**.
+
 - [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725). *Spotlight* at **ICML 2024**.
+  
 - [Probabilistic forecasting with stochastic interpolants and Föllmer processes](https://arxiv.org/abs/2403.13724) at **ICML 2024**.
+  
 - [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuae037/7633877) at **European Heart Jornal**.
+  
 - [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451) at **JACC, Clinical Electrophysiology**.
+  
 - taking part @ Flatiron Institute’s second workshop on Measure Transport, Sampling, and Diffusions, Fall 2023!
+  
 - talk @ [Decisions, Risk and Operations](https://business.columbia.edu/faculty/divisions/dro) ML reading group at Columbia, Fall 2023.
-- We are running the second iteration of the workshop on Spurious Correlations, Invariance, and Stability at **ICML 2023**. 
+  
+- We are running the second iteration of the workshop on Spurious Correlations, Invariance, and Stability at **ICML 2023**.
+  
 - [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2302.07261) at **ICLR 2023**.
+  
 - talk at @ Flatiron Institute's [workshop on Sampling, Transport, and Diffusions](https://sites.google.com/view/sampling-transport-diffusions/home), Fall 2022!
+  
 - Co-organize the [Workshop on Spurious Correlations, Invariance, and Stability](https://sites.google.com/view/scis-workshop/home) at **ICML 2022**!
+  
 - [Survival Mixture Density Networks](https://arxiv.org/pdf/2208.10759.pdf) at **MLHC 2022**.
+  
 - glad to continue at Apple Health AI for summer 2022!
+  
 - [Learning Invariant Representations with Missing Data](https://arxiv.org/pdf/2112.00881.pdf) at **CLeaR 2022**.
+  
 - [Inverse-Weighted Survival Games](https://arxiv.org/pdf/2111.08175.pdf) at **NeurIPS 2021**.
+  
 - working with Apple's Health AI team during summer 2021, supervised by [Andy Miller](https://andymiller.github.io/) and team!
+  
 - [Understanding Failures in Out-of-Distribution Detection with Deep Generative Models](https://arxiv.org/pdf/2107.06908.pdf) at **ICML 2021**.
-- (Fall 2020) I qualified! Upgrade from Student to Candidate. 
+  
+- (Fall 2020) I qualified! Upgrade from Student to Candidate.
+  
 - [X-CAL: Explicit Calibration for Survival Analysis](https://arxiv.org/pdf/2101.05346.pdf) at **NeurIPS 2020**.
+  
 - I'm working in [Emtiyaz Khan's](https://emtiyaz.github.io/) Approximate Bayesian Inference group at [RIKEN AIP](https://aip.riken.jp/) in Tokyo for Summer 2019!
 
 <!--
