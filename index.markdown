@@ -33,11 +33,9 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 - (paper, European Heart Jornal) [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuae037/7633877)
 - (paper, JACC, Clinical Electrophysiology) [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451)
 - (participating, Fall 2023) taking part @ Flatiron Institute’s upcoming second workshop on Measure Transport, Sampling, and Diffusions!
-- (teaching, Fall 2023) lecture on diffusions + flows @ NYU course, Inference and Representations
 - (talk, Fall 2023) talk on diffusions + flows @ [Decisions, Risk and Operations](https://business.columbia.edu/faculty/divisions/dro) ML reading group at Columbia, organized by Hongseok Namkoong!
 - (organizing, Summer 2023)  We are running the second iteration of the workshop on Spurious Correlations, Invariance, and Stability at ICML 2023! 
 - (paper, ICLR 2023) [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2302.07261) 
-- (teaching, Fall 2022) lecture on diffusions @ Yann LeCun's deep learning course at NYU!
 - (talk, Fall 2022) talk on diffusions @ the Flatiron Institute's [workshop on Sampling, Transport, and Diffusions](https://sites.google.com/view/sampling-transport-diffusions/home)!
 - (organizing, Summer 2022) excited to be co-organizing the [ICML Workshop on Spurious Correlations, Invariance, and Stability](https://sites.google.com/view/scis-workshop/home)!
 - (paper, MLHC 2022) [Survival Mixture Density Networks](https://arxiv.org/pdf/2208.10759.pdf)
@@ -47,10 +45,18 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 - (Summer 2021) working with Apple's Health AI team this summer supervised by [Andy Miller](https://andymiller.github.io/) and team!
 - (paper, ICML 2021) [Understanding Failures in Out-of-Distribution Detection with Deep Generative Models](https://arxiv.org/pdf/2107.06908.pdf)
 - (Fall 2020) I qualified! Upgrade from Student to Candidate. 
-- (teaching, Fall 2020) after some time away from harvard cs, happy to help out Prof [Nada Amin](https://namin.seas.harvard.edu/people/nada-amin) with the [harvard AI/PL seminar](https://pl-ai-seminar.seas.harvard.edu/) 
-- (teaching, Fall 2020) the deep learning course I TA'ed in spring 2020 for [Yann LeCun](http://yann.lecun.com/) and Alfredo Canziani is now up on [Alf's github page](https://atcold.github.io/NYU-DLSP20/), check out all of Alf's wonderful teaching materials and thanks to students for your notetaking
 - (paper, NeurIPS 2020) [X-CAL: Explicit Calibration for Survival Analysis](https://arxiv.org/pdf/2101.05346.pdf)
 - (Summer 2019) I'm working in [Emtiyaz Khan's](https://emtiyaz.github.io/) Approximate Bayesian Inference group at [RIKEN AIP](https://aip.riken.jp/) in Tokyo!
+
+
+<!--
+- (teaching, Fall 2023) lecture on diffusions + flows @ NYU course, Inference and Representations
+- (teaching, Fall 2022) lecture on diffusions @ Yann LeCun's deep learning course at NYU!
+- (teaching, Fall 2020) after some time away from harvard cs, happy to help out Prof [Nada Amin](https://namin.seas.harvard.edu/people/nada-amin) with the [harvard AI/PL seminar](https://pl-ai-seminar.seas.harvard.edu/) 
+- (teaching, Fall 2020) the deep learning course I TA'ed in spring 2020 for [Yann LeCun](http://yann.lecun.com/) and Alfredo Canziani is now up on [Alf's github page](https://atcold.github.io/NYU-DLSP20/), check out all of Alf's wonderful teaching materials and thanks to students for your notetaking
+-->
+
+
 
 ## mentoring
 - Abhipsha Das (Master's Thesis at NYU, 2024, on diffusions for text)
