@@ -36,7 +36,7 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 - We are running the second iteration of the workshop on Spurious Correlations, Invariance, and Stability at **ICML 2023**. 
 - [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2302.07261) at **ICLR 2023**.
 - talk at @ Flatiron Institute's [workshop on Sampling, Transport, and Diffusions](https://sites.google.com/view/sampling-transport-diffusions/home), Fall 2022!
-- Excited to co-organize the [Workshop on Spurious Correlations, Invariance, and Stability](https://sites.google.com/view/scis-workshop/home) at **ICML 2022**!
+- Co-organize the [Workshop on Spurious Correlations, Invariance, and Stability](https://sites.google.com/view/scis-workshop/home) at **ICML 2022**!
 - [Survival Mixture Density Networks](https://arxiv.org/pdf/2208.10759.pdf) at **MLHC 2022**.
 - glad to continue at Apple Health AI for summer 2022!
 - [Learning Invariant Representations with Missing Data](https://arxiv.org/pdf/2112.00881.pdf) at **CLeaR 2022**.
