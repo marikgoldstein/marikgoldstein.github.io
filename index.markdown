@@ -21,10 +21,10 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 
 ## News
 
-- (talk, December 2024) giving a talk at IBM Research, Mathematical Sciences Division (Yorktown Heights, NY). Topic Continuous and Discrete Diffusion.
-- (talk, November 2024) giving a talk in [Chi Jin's](https://sites.google.com/corp/view/cjin/home) group at Princeton. Topic: Continuous and Discrete Diffusion.
+- (talk, December 2024) giving a talk at IBM Research.
+- (talk, November 2024) giving a talk in [Chi Jin's](https://sites.google.com/corp/view/cjin/home) group at Princeton.
 - [Contrasting with Symile: Simple Model-Agnostic Representation Learning for Unlimited Modalities](https://arxiv.org/abs/2411.01053) at **NeurIPS 2024**.
-- (Summer-Fall 2024) student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/)!
+- student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/), June-Dec 2024!
 - [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740) at **ECCV 2024.**
 - [What's the score? Automated Denoising Score Matching for Nonlinear Diffusions](https://arxiv.org/abs/2407.07998) at **ICML 2024**.
 - [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725). *Spotlight* at **ICML 2024**.
