@@ -21,8 +21,8 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 
 ## News
 
-- (talk, December 2024) giving a talk at IBM Research.
-- (talk, November 2024) giving a talk in [Chi Jin's](https://sites.google.com/corp/view/cjin/home) group at Princeton.
+- talk @ IBM Research, December 2024.
+- talk @ [Chi Jin's](https://sites.google.com/corp/view/cjin/home) group at Princeton, November 2024.
 - [Contrasting with Symile: Simple Model-Agnostic Representation Learning for Unlimited Modalities](https://arxiv.org/abs/2411.01053) at **NeurIPS 2024**.
 - student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/), June-Dec 2024!
 - [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740) at **ECCV 2024.**
