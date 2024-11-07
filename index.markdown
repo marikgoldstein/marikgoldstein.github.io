@@ -21,15 +21,14 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 
 ## News
 
-
 - (talk, December 2024) giving a talk at IBM Research, Mathematical Sciences Division (Yorktown Heights, NY). Topic Continuous and Discrete Diffusion.
 - (talk, November 2024) giving a talk in [Chi Jin's](https://sites.google.com/corp/view/cjin/home) group at Princeton. Topic: Continuous and Discrete Diffusion.
 - (paper, NeurIPS 2024) [Contrasting with Symile: Simple Model-Agnostic Representation Learning for Unlimited Modalities](https://arxiv.org/abs/2411.01053)
 - (Summer-Fall 2024) student researcher at Google DeepMind NYC with [Will Grathwohl](https://www.cs.toronto.edu/~wgrathwohl/)!
-- (paper, ECCV 2024) [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740)
-- (paper, ICML 2024) [What's the score? Automated Denoising Score Matching for Nonlinear Diffusions](https://arxiv.org/abs/2407.07998)
-- (paper, ICML 2024) [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725). *Spotlight*.
-- (paper, ICML 2024) [Probabilistic forecasting with stochastic interpolants and Föllmer processes](https://arxiv.org/abs/2403.13724)!
+- (paper, ECCV 2024) [Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740) 
+- [paper] [What's the score? Automated Denoising Score Matching for Nonlinear Diffusions](https://arxiv.org/abs/2407.07998) at **ICML 2024**.
+- [paper] [Stochastic interpolants with data-dependent couplings](https://arxiv.org/abs/2310.03725). *Spotlight* at **ICML 2024**.
+- [paper] [Probabilistic forecasting with stochastic interpolants and Föllmer processes](https://arxiv.org/abs/2403.13724) at **ICML 2024**.
 - (paper, European Heart Jornal) [A dynamic risk score for early prediction of cardiogenic shock using machine learning](https://academic.oup.com/ehjacc/advance-article/doi/10.1093/ehjacc/zuae037/7633877)
 - (paper, JACC, Clinical Electrophysiology) [QTNet: Predicting Drug-Induced QT Prolongation with Artificial Intelligence-Enabled Electrocardiograms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554451)
 - (participating, Fall 2023) taking part @ Flatiron Institute’s upcoming second workshop on Measure Transport, Sampling, and Diffusions!
@@ -47,7 +46,6 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 - (Fall 2020) I qualified! Upgrade from Student to Candidate. 
 - (paper, NeurIPS 2020) [X-CAL: Explicit Calibration for Survival Analysis](https://arxiv.org/pdf/2101.05346.pdf)
 - (Summer 2019) I'm working in [Emtiyaz Khan's](https://emtiyaz.github.io/) Approximate Bayesian Inference group at [RIKEN AIP](https://aip.riken.jp/) in Tokyo!
-
 
 <!--
 - (teaching, Fall 2023) lecture on diffusions + flows @ NYU course, Inference and Representations
