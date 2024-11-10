@@ -114,15 +114,15 @@ that performs the repetoire of the courts of Central Java.
 
 ## playlist 
 
+[nov 10, 2024] [Chihiro Yamanaka - Yes or No (Wayne Shorter)](https://www.youtube.com/watch?v=VpmOa2i_uyg)  
+[nov 10, 2024] [Music for 18 Musicians, by Steve Reich](https://www.youtube.com/watch?v=71A_sm71_BI)  
+[nov 10, 2024] [Gilberto Gil - “Expresso 2222" - Expresso 2222](https://www.youtube.com/watch?v=1nOaAoa1bWA)  
+[nov 10, 2024] [Amagnon Koumagnon – Aya Obakiwe Lodo (from Benin)](https://www.youtube.com/watch?v=YWZ3XCCH3E8)  
+[nov 10, 2024] [Simon Shaheen - عود تقاسيم كرد 1996 oud Taqasim Kurd](https://www.youtube.com/watch?v=_fAuTIrqcsM)  
+[nov 10, 2024] [Bach Sonatas & Partitas, performed on lute by Hopkinson Smith](https://www.youtube.com/watch?v=pTBooio3h9U)  
 [oct 26, 2024] [Bill Evans - On Green Dolphin Street](https://www.youtube.com/watch?v=k6Q8vW_mqTE)  
 [sept 7, 2024] [Djoko Walujo - gender - Ldr. Pangkur sl. manyura](https://www.youtube.com/watch?v=uqpk2zgt8xo)  
 [sept 2, 2024] [Zé Kéti - Poema de Botequim](https://www.youtube.com/watch?v=nIXCrOJP_WE) 
-
-
-
-
-
-
 
 
 <!--
