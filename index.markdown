@@ -95,6 +95,7 @@ that performs the repetoire of the courts of Central Java.
 
 ## playlist 
 
+[nov 10, 2024] [Nara Leao - Diz que fui por aí](https://www.youtube.com/watch?v=7lkDuC5S2aQ)  
 [nov 10, 2024] [Chihiro Yamanaka - Yes or No (Wayne Shorter)](https://www.youtube.com/watch?v=VpmOa2i_uyg)  
 [nov 10, 2024] [Music for 18 Musicians, by Steve Reich](https://www.youtube.com/watch?v=71A_sm71_BI)  
 [nov 10, 2024] [Gilberto Gil - “Expresso 2222" - Expresso 2222](https://www.youtube.com/watch?v=1nOaAoa1bWA)  
