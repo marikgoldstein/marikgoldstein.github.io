@@ -80,20 +80,6 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 - (teaching, Fall 2020) the deep learning course I TA'ed in spring 2020 for [Yann LeCun](http://yann.lecun.com/) and Alfredo Canziani is now up on [Alf's github page](https://atcold.github.io/NYU-DLSP20/), check out all of Alf's wonderful teaching materials and thanks to students for your notetaking
 -->
 
-
-
-## mentoring
-- Abhipsha Das (Master's Thesis at NYU, 2024, on diffusions for text)
-- Shraddha Jain (current Master's student, 2024, research on VAEs)
-- Nina Mortensen (Masters Thesis at NYU, 2024, research on VAEs, now at Fauna Robotics)
-- Kyle Adams (Undergradate from University of Florida, 2022, research on survival analysis, now a math phd at UF)
-- mentor for [Women in Data Science Datathon](https://www.widscambridge.org/datathon), Cambridge, 2021. 
-- tutored at a few iterations of [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2024/), meant for first and second year undergraduates in the NYC area as a first exposure to AI/ML
-
-
-## I usually review for 
-- NeurIPS, ICML, ICLR, AAAI, AISTATS, CLeaR, JMLR, misc workshops
-
 ## In a previous life
 
 I was a research assistant and teaching fellow in the computer science department 
@@ -126,6 +112,20 @@ that performs the repetoire of the courts of Central Java.
 
 
 <!--
+
+## mentoring
+- Abhipsha Das (Master's Thesis at NYU, 2024, on diffusions for text)
+- Shraddha Jain (current Master's student, 2024, research on VAEs)
+- Nina Mortensen (Masters Thesis at NYU, 2024, research on VAEs, now at Fauna Robotics)
+- Kyle Adams (Undergradate from University of Florida, 2022, research on survival analysis, now a math phd at UF)
+- mentor for [Women in Data Science Datathon](https://www.widscambridge.org/datathon), Cambridge, 2021. 
+- tutored at a few iterations of [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2024/), meant for first and second year undergraduates in the NYC area as a first exposure to AI/ML
+
+
+## I usually review for 
+- NeurIPS, ICML, ICLR, AAAI, AISTATS, CLeaR, JMLR, misc workshops
+
+
 <p>
 Mark Goldstein<br>
 <a href="https://en.wikipedia.org/wiki/Courant_Institute_of_Mathematical_Sciences">Courant Institute of Mathematical Sciences</a><br>
