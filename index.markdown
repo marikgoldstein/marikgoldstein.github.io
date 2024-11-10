@@ -84,11 +84,6 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 
 I was a research assistant and teaching fellow in the computer science department 
 at [Harvard SEAS](https://www.seas.harvard.edu/).
-I am still an on/off TF for the 
-[harvard undergrad ML course](https://harvard-ml-courses.github.io/cs181-web/).
-Between Harvard and NYU, I worked with the 
-[CoCoSci](http://cocosci.mit.edu/) group at 
-[MIT BCS](https://bcs.mit.edu/).
 Previous to that, I studied music composition, improvisation, and theory 
 at New England Conservatory with 
 [Anthony Coleman](https://en.wikipedia.org/wiki/Anthony_Coleman),
@@ -112,6 +107,27 @@ that performs the repetoire of the courts of Central Java.
 
 
 <!--
+
+
+## In a previous life
+
+I was a research assistant and teaching fellow in the computer science department 
+at [Harvard SEAS](https://www.seas.harvard.edu/).
+I am still an on/off TF for the 
+[harvard undergrad ML course](https://harvard-ml-courses.github.io/cs181-web/).
+Between Harvard and NYU, I worked with the 
+[CoCoSci](http://cocosci.mit.edu/) group at 
+[MIT BCS](https://bcs.mit.edu/).
+Previous to that, I studied music composition, improvisation, and theory 
+at New England Conservatory with 
+[Anthony Coleman](https://en.wikipedia.org/wiki/Anthony_Coleman),
+[Stratis Minakakis](https://www.stratisminakakis.info) 
+and [Ran Blake](https://ranblake.com/).
+I am still involved with music and rehearse with
+[Gamelan Kusuma Laras](https://kusumalaras.org/) a classical Javanese ensemble 
+that performs the repetoire of the courts of Central Java.
+
+
 
 ## mentoring
 - Abhipsha Das (Master's Thesis at NYU, 2024, on diffusions for text)
@@ -148,6 +164,7 @@ where I worked primarily with <a href="https://www.seltzer.com/margo/">Margo Sel
 <a href="https://finale.seas.harvard.edu/">Finale Doshi-Velez</a> and <a href="http://nlp.seas.harvard.edu/rush.html">Sasha Rush</a>. Between Harvard and NYU, I worked
 with the <a href="http://cocosci.mit.edu/">CoCoSci</a> group at <a href="https://bcs.mit.edu/">MIT BCS</a> on model-based RL under
 <a href="https://cbmm.mit.edu/about/people/tsividis">Pedro Tsividis</a> and <a href="http://cocosci.mit.edu/josh">Josh Tenenbaum</a>.
+
 
 Thoughts at the moment: In general I care about (1) ml for health (e.g. cardiovascular health) and (2) methodology in generative models, particularly on the diffusion/flow side of things, and for applications like images, video, and PDEs (see work below). 
 
