@@ -95,6 +95,8 @@ that performs the repetoire of the courts of Central Java.
 
 ## playlist 
 
+[nov 21, 2024] [Freddie Hubbard Quartet - Fantasy in D (Cedar Walton)](https://www.youtube.com/watch?v=z9pccmxOn5c)  
+[nov 21, 2024] [محمد رويشة حارو عينيك Rouicha mohamed 7aro 3inik](https://www.youtube.com/watch?v=o6BW183CSfA)  
 [nov 10, 2024] [Nara Leao - Diz que fui por aí](https://www.youtube.com/watch?v=7lkDuC5S2aQ)  
 [nov 10, 2024] [Chihiro Yamanaka - Yes or No (Wayne Shorter)](https://www.youtube.com/watch?v=VpmOa2i_uyg)  
 [nov 10, 2024] [Music for 18 Musicians, by Steve Reich](https://www.youtube.com/watch?v=71A_sm71_BI)  
