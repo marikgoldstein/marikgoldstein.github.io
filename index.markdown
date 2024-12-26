@@ -97,6 +97,7 @@ that performs the repetoire of the courts of Central Java.
 
 ## playlist 
 
+[dec 26, 2024] [earth tones - old School deep house mix (1993-2005)](https://www.youtube.com/watch?v=h8zJ5xhz7uM)  
 [nov 21, 2024] [Freddie Hubbard Quartet - Fantasy in D (Cedar Walton)](https://www.youtube.com/watch?v=z9pccmxOn5c)  
 [nov 21, 2024] [محمد رويشة حارو عينيك Rouicha mohamed 7aro 3inik](https://www.youtube.com/watch?v=o6BW183CSfA)  
 [nov 10, 2024] [Nara Leao - Diz que fui por aí](https://www.youtube.com/watch?v=7lkDuC5S2aQ)  
