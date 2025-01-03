@@ -97,6 +97,10 @@ that performs the repetoire of the courts of Central Java.
 
 ## playlist 
 
+[jan 2, 2025] [McCoy Tyner - Days Of Wine And Roses](https://www.youtube.com/watch?v=XD9P3M7FARM)  
+[jan 2, 2025] [Yussef Kamaal - Black Focus (Full Album Upload)](https://www.youtube.com/watch?v=4D8YPDdsxYU)  
+[jan 2, 2025] [Art Blakey ＆ The Jazz Messengers - Fuller Love](https://www.youtube.com/watch?v=lM5Cj8yFkOQ)  
+[jan 2, 2025] [Bill Evans - Comrade Conrad](https://www.youtube.com/watch?v=4XMAGcwNfbw)  
 [dec 26, 2024] [earth tones - old School deep house mix (1993-2005)](https://www.youtube.com/watch?v=h8zJ5xhz7uM)  
 [nov 21, 2024] [Freddie Hubbard Quartet - Fantasy in D (Cedar Walton)](https://www.youtube.com/watch?v=z9pccmxOn5c)  
 [nov 21, 2024] [محمد رويشة حارو عينيك Rouicha mohamed 7aro 3inik](https://www.youtube.com/watch?v=o6BW183CSfA)  
