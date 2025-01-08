@@ -21,6 +21,8 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 
 ## News
 
+- talk @ [Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/), January 2025.
+
 - see you @ neurips 2024 in Vancouver!
 
 - talk @ IBM Research, December 2024.
