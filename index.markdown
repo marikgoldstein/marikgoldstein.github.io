@@ -99,6 +99,7 @@ that performs the repetoire of the courts of Central Java.
 
 ## playlist 
 
+[jan 10, 2025] [最終列車は25時](https://www.youtube.com/watch?v=yDOx_Duc498)  
 [jan 2, 2025] [Paquito D'Rivera + Claudio Roditi + others - Samba For Carmen... Madrid 1984](https://www.youtube.com/watch?v=1Y9YOOI-Yj8)    
 [jan 2, 2025] [McCoy Tyner - Days Of Wine And Roses](https://www.youtube.com/watch?v=XD9P3M7FARM)  
 [jan 2, 2025] [Yussef Kamaal - Black Focus (Full Album Upload)](https://www.youtube.com/watch?v=4D8YPDdsxYU)  
