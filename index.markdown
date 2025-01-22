@@ -21,6 +21,10 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 
 ## News
 
+- some work on off-policy evaluation with policies defined by jump processes accpeted to **ICLR 2025**
+  
+- talk @ Meta FAIR team
+
 - talk @ [Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/), January 2025.
 
 - see you @ neurips 2024 in Vancouver!
