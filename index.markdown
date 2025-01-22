@@ -21,7 +21,7 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 
 ## News
 
-- some work on off-policy evaluation with policies defined by jump processes accpeted to **ICLR 2025**
+- some work on causal off-policy estimation w/ policies defined by jump processes, accepted to **ICLR 2025**!
   
 - talk @ Meta FAIR team
 
