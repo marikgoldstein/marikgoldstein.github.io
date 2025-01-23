@@ -103,6 +103,7 @@ that performs the repetoire of the courts of Central Java.
 
 ## playlist 
 
+[jan 23, 2025] [Art Blakey & Jazz Messengers - Ugetsu](https://www.youtube.com/watch?v=qjAAWZ9G64Q)   
 [jan 23, 2025] [Bill Evans - Someday my Prince Will Come](https://www.youtube.com/watch?v=KUT06K5eGz4)  
 [jan 23, 2025] [George Coleman - Sierra](https://www.youtube.com/watch?v=H0nHkFlhqdY)  
 [jan 10, 2025] [最終列車は25時](https://www.youtube.com/watch?v=yDOx_Duc498)  
