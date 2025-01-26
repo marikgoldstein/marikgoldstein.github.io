@@ -29,8 +29,6 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 
 - see you @ neurips 2024 in Vancouver!
 
-- talk @ IBM Research, December 2024.
-
 - talk @ Harvard [Kempner Institute](https://kempnerinstitute.harvard.edu/), November 2024.
   
 - talk @ [Chi Jin's](https://sites.google.com/corp/view/cjin/home) group at Princeton, November 2024.
