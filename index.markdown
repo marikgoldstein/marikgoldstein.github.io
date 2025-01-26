@@ -103,6 +103,7 @@ that performs the repetoire of the courts of Central Java.
 
 ## playlist 
 
+[jan 26, 2025] [John Coltrane - My Favorite Things](https://www.youtube.com/watch?v=rqpriUFsMQQ)  
 [jan 23, 2025] [Art Blakey & Jazz Messengers - Ugetsu](https://www.youtube.com/watch?v=qjAAWZ9G64Q)   
 [jan 23, 2025] [Bill Evans - Someday my Prince Will Come](https://www.youtube.com/watch?v=KUT06K5eGz4)  
 [jan 23, 2025] [George Coleman - Sierra](https://www.youtube.com/watch?v=H0nHkFlhqdY)  
