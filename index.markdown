@@ -22,16 +22,20 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 ## News
 
 - some work on causal off-policy estimation w/ policies defined by jump processes, accepted to **ICLR 2025**!
-  
+
+<!--
 - talk @ Meta FAIR team
 
 - talk @ [Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/), January 2025.
-
+-->
 - see you @ neurips 2024 in Vancouver!
 
+<!--
 - talk @ Harvard [Kempner Institute](https://kempnerinstitute.harvard.edu/), November 2024.
   
 - talk @ [Chi Jin's](https://sites.google.com/corp/view/cjin/home) group at Princeton, November 2024.
+
+-->
   
 - [Contrasting with Symile: Simple Model-Agnostic Representation Learning for Unlimited Modalities](https://arxiv.org/abs/2411.01053) at **NeurIPS 2024**.
   
