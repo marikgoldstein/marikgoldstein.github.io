@@ -108,6 +108,7 @@ that performs the repetoire of the courts of Central Java.
 
 ## playlist 
 
+[feb 2, 2025] [Bobby Timmons - Lush Life](https://www.youtube.com/watch?v=aZujeMeyiJI)  
 [jan 26, 2025] [Sunset Rollercoaster - My Jinji](https://www.youtube.com/watch?v=CbwYZCga50U)  
 [jan 26, 2025] [João Gilberto - Pra Que Discutir Com Madame](https://www.youtube.com/watch?v=Z_qfJlvcWyM)  
 [jan 26, 2025] [John Coltrane - My Favorite Things](https://www.youtube.com/watch?v=rqpriUFsMQQ)  
