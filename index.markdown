@@ -7,9 +7,11 @@ layout: default
 
 I am a PhD candidate at NYU Courant Institute of Mathematical Sciences, [CILVR group](https://wp.nyu.edu/cilvr/),
 advised by [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and 
-[Thomas Wies](https://cs.nyu.edu/wies/), and a student researcher at Google DeepMind. I work on deep generative models
+[Thomas Wies](https://cs.nyu.edu/wies/). I work on deep generative models
 and machine learning for health and science. 
 
+<!-- and a student researcher at Google DeepMind.-->
+ 
 <!-- I'm also a part of the [STAT research group](https://cds.nyu.edu/stat/) at the NYU Center for Data Science. Currently I organize the "generative model foundations" weekly meeting at Courant which brings together CS and math researchers to understand recent generative models together (PIs Eric Vanden-Eijnden, Joan Bruna, and Jon Niles-Weed).
 -->
 
