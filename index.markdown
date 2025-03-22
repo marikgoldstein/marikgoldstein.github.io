@@ -26,7 +26,8 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 
 ## News
 
-- some work on causal off-policy estimation w/ policies defined by jump processes, accepted to ICLR 2025!
+- [Time After Time: Deep-Q Effect Estimation for Interventions on When and What to do
+](https://arxiv.org/abs/2503.15890) at ICLR 2025 (causal off-policy estimation w/ policies defined by jump processes)
 
 <!--
 - talk @ Meta FAIR team
