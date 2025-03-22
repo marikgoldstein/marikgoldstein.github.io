@@ -27,7 +27,7 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 ## News
 
 - [Time After Time: Deep-Q Effect Estimation for Interventions on When and What to do
-](https://arxiv.org/abs/2503.15890) at ICLR 2025 (causal off-policy estimation w/ policies defined by jump processes)
+](https://arxiv.org/abs/2503.15890) at ICLR 2025.
 
 <!--
 - talk @ Meta FAIR team
