@@ -26,6 +26,11 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 
 ## News
 
+
+- glad to be speaking at and attending [Learning on Graphs NYC](https://log-nyc.github.io/speakers/goldstein/)
+
+- taking part in the [D.E. Shaw Research Phd+Postdoc Fellowship](https://www.deshawresearch.com/fellowships.html)
+
 - [Time After Time: Deep-Q Effect Estimation for Interventions on When and What to do
 ](https://arxiv.org/abs/2503.15890) at ICLR 2025.
 
