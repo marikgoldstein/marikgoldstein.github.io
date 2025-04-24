@@ -26,8 +26,7 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 
 ## News
 
-
-- glad to be attending [Learning on Graphs NYC](https://log-nyc.github.io/speakers/goldstein/)
+- glad to be attending [Learning on Graphs NYC](https://log-nyc.github.io/program/)
 
 - taking part in the [D.E. Shaw Research Phd+Postdoc Fellowship](https://www.deshawresearch.com/fellowships.html)
 
