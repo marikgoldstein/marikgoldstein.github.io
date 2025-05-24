@@ -115,6 +115,7 @@ that performs the repetoire of the courts of Central Java.
 
 ## playlist 
 
+[may 23, 2025] [Wayne Shorter - Black Nile](https://www.youtube.com/watch?v=8OxrGVPBzZM)  
 [may 22, 2025]  [Funky Technicians - Infinite Ways (@33RPM)](https://www.youtube.com/watch?v=blQq8mj5NkA)  
 [mar 1, 2025] [jalil Shahnaz - Avaze Abouata](https://www.youtube.com/watch?v=7YkQZygPI_U)  
 [feb 2, 2025] [Bobby Timmons - Lush Life](https://www.youtube.com/watch?v=aZujeMeyiJI)  
