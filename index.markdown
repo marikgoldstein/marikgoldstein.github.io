@@ -115,6 +115,7 @@ that performs the repetoire of the courts of Central Java.
 
 ## playlist 
 
+[may 23, 2025] [The Bad Plus + Joshua Redman](https://www.youtube.com/watch?v=GmQTZb81qQ8)  
 [may 23, 2025] [Wayne Shorter - Black Nile](https://www.youtube.com/watch?v=8OxrGVPBzZM)  
 [may 22, 2025]  [Funky Technicians - Infinite Ways (@33RPM)](https://www.youtube.com/watch?v=blQq8mj5NkA)  
 [mar 1, 2025] [jalil Shahnaz - Avaze Abouata](https://www.youtube.com/watch?v=7YkQZygPI_U)  
