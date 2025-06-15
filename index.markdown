@@ -115,6 +115,7 @@ that performs the repetoire of the courts of Central Java.
 
 ## playlist 
 
+[june 14, 2025] [Bashir Abbas, master of the Sudanese oud](https://www.youtube.com/watch?v=syh6n_PFhlM)  
 [may 23, 2025] [The Bad Plus + Joshua Redman - As This Moment Slips Away](https://www.youtube.com/watch?v=GmQTZb81qQ8)  
 [may 23, 2025] [Wayne Shorter - Black Nile](https://www.youtube.com/watch?v=8OxrGVPBzZM)  
 [may 22, 2025]  [Funky Technicians - Infinite Ways (@33RPM)](https://www.youtube.com/watch?v=blQq8mj5NkA)  
