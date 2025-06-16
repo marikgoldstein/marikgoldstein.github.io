@@ -19,10 +19,10 @@ and machine learning for health and science.
 
 feel free to anonymously give me comments/suggestions/feedback [here](https://docs.google.com/forms/d/e/1FAIpQLScr3QyHx5EmLy8OLmX6lCuZZxCILdCqJRywaBSnFShyzdvmWQ/viewform?usp=sf_link)
 
-
-
+<!-- 
 ## On my mind 
 - discrete diffusion models!
+--> 
 
 ## News
 
