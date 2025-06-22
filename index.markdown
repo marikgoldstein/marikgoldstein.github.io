@@ -100,6 +100,7 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 - (teaching, Fall 2020) the deep learning course I TA'ed in spring 2020 for [Yann LeCun](http://yann.lecun.com/) and Alfredo Canziani is now up on [Alf's github page](https://atcold.github.io/NYU-DLSP20/), check out all of Alf's wonderful teaching materials and thanks to students for your notetaking
 -->
 
+<!--
 ## In a previous life
 
 I was a research assistant and teaching fellow in the computer science department 
@@ -112,6 +113,7 @@ and [Ran Blake](https://ranblake.com/).
 I am still involved with music and rehearse with
 [Gamelan Kusuma Laras](https://kusumalaras.org/) a classical Javanese ensemble 
 that performs the repetoire of the courts of Central Java.
+-->
 
 ## playlist 
 
