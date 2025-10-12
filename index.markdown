@@ -27,6 +27,8 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 
 ## News
 
+- I have started at the Flatiron Institute!
+  
 - I have defended! on august 8, 2025
 
 - glad to be attending [Learning on Graphs NYC](https://log-nyc.github.io/program/)
