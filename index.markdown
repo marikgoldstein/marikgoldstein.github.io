@@ -5,10 +5,11 @@ layout: default
 
 ## About Me
 
-I am a PhD candidate at NYU Courant Institute of Mathematical Sciences, [CILVR group](https://wp.nyu.edu/cilvr/),
+I am Research Fellow at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), Simons Foundation. 
+Previously, I completed my PhD at the NYU Courant Institute of Mathematical Sciences, [CILVR group](https://wp.nyu.edu/cilvr/),
 advised by [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and 
 [Thomas Wies](https://cs.nyu.edu/wies/). I work on deep generative models
-and machine learning for health and science. 
+and machine learning in the sciences.
 
 <!-- and a student researcher at Google DeepMind.-->
  
