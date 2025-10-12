@@ -5,7 +5,7 @@ layout: default
 
 ## About Me
 
-I am Research Fellow at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), Simons Foundation. 
+I am Research Fellow in the Center for Computational Mathematics at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/). 
 Previously, I completed my PhD at the NYU Courant Institute of Mathematical Sciences, [CILVR group](https://wp.nyu.edu/cilvr/),
 advised by [Rajesh Ranganath](https://cims.nyu.edu/~rajeshr/) and 
 [Thomas Wies](https://cs.nyu.edu/wies/). I work on deep generative models
