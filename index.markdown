@@ -27,7 +27,7 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 
 ## News
 
-- I have started at the Flatiron Institute!
+- I have started at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/)!
   
 - I have defended! on august 8, 2025
 
