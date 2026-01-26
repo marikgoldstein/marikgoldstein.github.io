@@ -27,6 +27,8 @@ feel free to anonymously give me comments/suggestions/feedback [here](https://do
 
 ## News
 
+- flow map learning with stopgrads + provable stationary points at ICLR 2026. paper coming soon.
+
 - I have started at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/)!
   
 - I have defended! on august 8, 2025
