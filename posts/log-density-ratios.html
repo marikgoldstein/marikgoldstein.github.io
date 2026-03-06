@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Computing Log Density Ratios Given Unnormalized Score Functions - Mark Goldstein</title>
+  <link rel="stylesheet" href="../style.css">
+  <script>
+    MathJax = { tex: { inlineMath: [['$', '$']], displayMath: [['$$', '$$']] } };
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
+</head>
+<body>
+  <div class="container">
+
+    <nav>
+      <a href="../index.html">about</a>
+      <a href="../papers.html">papers</a>
+      <a href="../notes.html">notes</a>
+      <a href="../music.html">music</a>
+    </nav>
+
+    <a class="back-link" href="../notes.html">&larr; All notes</a>
+
+    <div class="post-header">
+      <h1>Computing Log Density Ratios Given Unnormalized Score Functions</h1>
+      <div class="post-meta">March 5, 2026</div>
+    </div>
+
+    <div class="post-body">
+      <p>
+        Let $p$ be a density of interest and let $p(x) = \tilde{p}(x)/Z$. Then $\log p(x) = \log \tilde{p}(x) - \log Z$.
+      </p>
+
+      <p>
+        Suppose we have access to $\nabla \log p(x) = \nabla \log \tilde{p}(x)$. We'd like to compute density ratios at a pair of points. By the fundamental theorem for line integrals,
+        if we set a path $\gamma$ from $y$ to $z$
+        via $x(0)=y$ and $x(1)=z$, with $x(t)= (1-t)y + tz$, then
+      </p>
+
+      $$
+      \begin{aligned}
+          \log \frac{p(z)}{p(y)}
+          &=
+          \log p(z) - \log p(y) \\
+          &=
+          \log \tilde{p}(z) - \log Z - \log \tilde{p}(y) + \log Z \\
+          &=
+          \log \tilde{p}(z) - \log \tilde{p}(y) \\
+          &= \int_\gamma \nabla \log \tilde{p}(x)^\top dx \\
+          &=  \int_0^1 \nabla \log \tilde{p}(x(t))^\top \dot{x}(t)\, dt\\
+          &= \int_0^1  \nabla \log \tilde{p}(x(t))^\top (z-y)\, dt.
+      \end{aligned}
+      $$
+
+      <p>
+        Thus, we can compute log density ratios given only the score $\nabla \log \tilde{p}$, up to a numerical line integral.
+      </p>
+
+      <h2>Remarks</h2>
+
+      <ul>
+        <li>
+          <strong>Conservativeness.</strong> The fundamental theorem for line integrals requires $\nabla \log \tilde{p}$ to be a conservative vector field, i.e. curl-free. This is automatic here since $\nabla \log \tilde{p}$ is the gradient of a scalar; but if one were instead given an arbitrary vector field $s(x)$ purporting to be a score, one would need to verify $\nabla \times s = 0$ before applying this argument.
+        </li>
+        <li>
+          <strong>Path independence.</strong> Since the field is conservative, the integral is path-independent, so the straight-line $\gamma$ is one valid choice among infinitely many. In practice, however, path choice matters numerically: a straight line may traverse low-probability regions where $\nabla \log \tilde{p}$ is large or poorly conditioned, so more carefully chosen paths can reduce quadrature error.
+        </li>
+        <li>
+          <strong>Regularity.</strong> The argument requires $\log \tilde{p}$ to be $C^1$ along $\gamma$, i.e. the gradient must exist and be continuous on the path. This fails at hard boundaries of the support where $\tilde{p} = 0$ and the log diverges, so the trick should be applied with care for distributions with bounded support.
+        </li>
+        <li>
+          <strong>Numerical cost.</strong> Evaluating the integral requires quadrature along $\gamma$, hence multiple evaluations of $\nabla \log \tilde{p}$. The resulting log-ratio estimate is consistent as the quadrature is refined, but the per-pair cost is non-trivial &mdash; especially when the score is expensive to evaluate, e.g. when $\tilde{p}$ involves a large neural network.
+        </li>
+      </ul>
+    </div>
+
+  </div>
+</body>
+</html>
