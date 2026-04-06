@@ -317,6 +317,17 @@ nav a:hover {
   margin-bottom: 16px;
 }
 
+.post-body figure {
+  margin: 24px 0;
+  text-align: center;
+}
+
+.post-body figcaption {
+  font-size: 14px;
+  color: #888;
+  margin-top: 8px;
+}
+
 .back-link {
   display: inline-block;
   margin-bottom: 24px;

@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>A quick tour of scaling laws - Mark Goldstein</title>
+  <link rel="stylesheet" href="../style.css">
+  <script>
+    MathJax = { tex: { inlineMath: [['$', '$']], displayMath: [['$$', '$$']] } };
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
+</head>
+<body>
+  <div class="container">
+
+    <nav>
+      <a href="../index.html">about</a>
+      <a href="../papers.html">papers</a>
+      <a href="../notes.html">notes</a>
+      <a href="../music.html">music</a>
+    </nav>
+
+    <a class="back-link" href="../notes.html">&larr; All notes</a>
+
+    <div class="post-header">
+      <h1>a quick tour of scaling laws</h1>
+      <div class="post-meta">April 6, 2026</div>
+    </div>
+
+    <div class="post-body">
+
+      <p>
+        If you make a language model larger, or train it on more data, its loss goes down. 
+What's non-obvious is that these improvements follow clean <a href="https://en.wikipedia.org/wiki/Power_law" target="_blank">power laws</a>; straight lines on a log-log plot, over many orders of magnitude. These <b>scaling laws</b> have supposedly become an important part of how frontier labs plan training runs, allocate compute, and decide when to scale up (I emphasize <i>supposedly</i>, I wouldn't know myself). This post is a quick, high-level tour of the key ideas and open questions.
+      </p>
+
+      <h2>Kaplan et al.: the original observation</h2>
+
+      <p>
+        <a href="https://arxiv.org/abs/2001.08361" target="_blank">Kaplan et al. (2020)</a> trained a large suite of language models and found that test loss follows power laws in the number of parameters $N$, the number of data tokens $D$, and the compute budget $C$*:
+
+      </p>
+
+      $$
+      L(x) \sim x^{-\alpha_x}
+      $$
+
+      <p>
+        for each of $x \in \{N, D, C\}$, with different exponents $\alpha_x$. The fit is good across several orders of magnitude.
+      </p>
+      <p class="footnote">
+        *$C$ is measured in FLOPs (floating point operations) and counts the total across the entire training run, including all forward and backward passes. One could also talk about the FLOPs of a single forward/backward pass, which characterizes the model's cost per step. Confusingly, FLOPS with a capital S (or FLOP/s) is a different thing: floating point operations <em>per second</em>, a measure of hardware throughput that depends on architecture and hardware.
+      </p>
+
+
+      <figure>
+        <img src="../images/kaplan1_nocaption.png" alt="Kaplan et al. Figure 1: test loss vs compute, dataset size, and parameters, each showing a power-law fit" style="max-width: 100%;">
+        <figcaption>From Kaplan et al. (2020), Figure 1. Test loss as a power law in compute, dataset size, and parameters.</figcaption>
+      </figure>
+
+      <p>
+	More specifically (ignoring some batch size details in the paper), they fit three separate power laws for the regime where each factor is the bottleneck and the others are sufficiently large:
+      </p>
+
+      $$
+      L(N) = \left(\frac{N_c}{N}\right)^{\alpha_N}, \quad
+      L(D) = \left(\frac{D_c}{D}\right)^{\alpha_D}, \quad
+      L(C_{\min}) = \left(\frac{C_c^{\min}}{C_{\min}}\right)^{\alpha_C^{\min}}
+      $$
+
+      <p>
+        with $\alpha_N \approx 0.076$, $\alpha_D \approx 0.095$, and $\alpha_C^{\min} \approx 0.050$, where $N_c$, $D_c$, and $C_c^{\min}$ are fitted constants. Notice that $\alpha_N > \alpha_D$. That is, loss is more sensitive to $N$ than to $D$ in their study regime. This led to a practical recommendation: for a fixed compute budget, <a href="https://www.reddit.com/r/ProgrammerHumor/comments/8c1i45/stack_more_layers/" target="_blank">make the model large and don't worry as much about data</a>.
+      </p>
+
+      <h2>Chinchilla: actually, scale the data too</h2>
+
+      <p>
+        <a href="https://arxiv.org/abs/2203.15556" target="_blank">Hoffmann et al. (2022)</a>, "the <i>Chinchilla</i> paper", revisited this and came to a different conclusion. They fit a joint law of the form
+      </p>
+
+      $$
+      L(N, D) = E + \frac{A}{N^{\alpha}} + \frac{B}{D^{\beta}},
+      $$
+
+      <p>
+        where $A$ and $B$ are fitted constants and $E$ is an irreducible loss floor (for NLL this is the entropy of the data, though the precise definition depends on how the loss averages over context positions/lengths). 
+		</p>
+
+		<p> To find the best allocation of a fixed compute budget $C \approx 6ND$, you substitute $D = C/(6N)$ and optimize over $N$. The optimal split depends on the exponents $\alpha$ and $\beta$: if they're roughly equal (as Chinchilla's fits suggest, both around 0.34), you get $N^* \propto C^{0.5}$ and $D^* \propto C^{0.5}$. In other words, this finding says that model size and data should scale equally with compute. This is the "Chinchilla-optimal" allocation, and it implied that many existing large models (e.g. Gopher) were undertrained relative to their size: you could get a better model by training a smaller one on more data. Supposedly, frontier labs took this seriously, and this shaped training decisions for the next generation of models.
+      </p>
+
+      <figure>
+        <img src="../images/hoffmann_fig4.png" alt="Hoffmann et al. Figure 4: iso-loss contours and isoFLOP slices showing the efficient frontier" style="max-width: 100%;">
+        <figcaption>From Hoffmann et al. (2022), Figure 4. Left: iso-loss contours of the fitted $\hat{L}(N, D)$ in the model size vs. training FLOPs plane. The blue line is the efficient frontier; this is the cheapest way to reach each loss level. The Gopher compute budget is marked with a dashed line, showing that an optimal model at that budget would be ~40B parameters (smaller than Gopher's 280B) trained on more data. Right: isoFLOP slices, where each curve shows loss vs. model size at a fixed compute budget; each curve has a clear minimum, and larger budgets favor larger models.</figcaption>
+      </figure>
+
+      <p>
+        <b>If you're curious about the derivation</b>: substitute $D = C/(6N)$ into the loss to get $L(N) = E + A N^{-\alpha} + B (6N/C)^{\beta}$. Take the derivative and set it to zero: $\alpha A N^{-\alpha - 1} = \beta B (6/C)^{\beta} N^{\beta - 1}$. Solving for $N$ gives $N^* \propto C^{\beta/(\alpha + \beta)}$, and plugging back in gives $D^* \propto C^{\alpha/(\alpha + \beta)}$. When $\alpha = \beta$, both exponents equal $1/2$ and you get equal scaling. When $\alpha \neq \beta$, the budget tilts toward whichever factor has the larger exponent. This is why Kaplan's asymmetric exponents led to "scale the model" while Chinchilla's symmetric exponents led to "scale both model and data equally."
+      </p>
+
+      <p>
+        That said, the Chinchilla result has faced scrutiny. <a href="https://arxiv.org/abs/2404.10102" target="_blank">Besiroglu et al. (2024)</a> found that the reported estimates are hard to reproduce and sensitive to methodological choices. The qualitative message (scale data too) has held up; the precise exponents remain debated.
+      </p>
+
+      <h2>Why people study one factor at a time</h2>
+
+      <p>
+
+		The Kaplan/Chinchilla loss have additive structure. The model size and data contributions enter as separate terms, and there are no cross terms. If you believe this decomposition, you could in theory study each factor in isolation, e.g., fix the model and study the loss's relationship to varying data size. Then, you could plug the pieces back together. Several recent works have taken this approach, and it makes the empirical and theoretical work more tractable*. Though, the assumption on additive terms with no cross terms is probably approximate.
+	</p>
+
+<p>
+	*I sometimes cringe when I add a modifier like "more" or "less" on a word that seems binary (more tractable, less perfect, even more optimal, etc...)
+      </p>
+
+      <h2>Where do the exponents come from?</h2>
+
+      <p>
+        The work above is primarily empirical: fit curves, read off exponents. But one accumulates a list of questions. Why power laws? Can we predict the exponents from properties/statistics of the data itself?
+      </p>
+
+      <p>
+        A recent line of work from Surya Ganguli's group tackles this. <a href="https://arxiv.org/abs/2407.12768" target="_blank">Cagnetta, Ravent&oacute;s, Ganguli &amp; Wyart (2024)</a> derive a formula predicting the data-scaling exponent $\alpha_D$ from two measurable corpus statistics: how fast conditional entropy (of next token given context) decays with context length ($\gamma$), and how fast token correlations decay with lag ($\beta$). The claim is that $\alpha_D = \gamma / (2\beta)$, with no free parameters and no dependence on model architecture. If it holds, you could predict how fast a model will learn from a dataset just by measuring statistical properties of the text before training anything. Here, the statistics serve as intrinsic hardness measures of the data, a way to quantify how much structure a corpus has for a model to exploit. However, a criticism here is that conditional entropy and other types of correlations are notoriously/provably hard to estimate accurately... (i'll try to add some links explaining/proving that here).
+      </p>
+
+      <h2>What's still open</h2>
+
+      <p>
+        Scaling laws are now an established research area and (supposedly) widely used in practice, but far from settled as a science. Some directions that remain open seem to be:
+      </p>
+
+      <ul>
+        <li>
+          <strong>the additive decomposition breaks down.</strong> The $A/N^\alpha + B/D^\beta$ form assumes model and data bottlenecks don't interact. But modern practice often trains well beyond Chinchilla-optimal (Llama-3-8B uses ~2000 tokens per parameter), and in this "overtrained" regime the additive form starts to crack. Feature learning creates interaction terms that the simple decomposition misses.        </li>
+        <li>
+          <strong>data mixtures.</strong> Real training corpora are heterogeneous (web + code + books + math). Each domain presumably has its own scaling behavior. How do per-domain exponents combine? Nobody has a clean theory here, though there's growing empirical work on data mixing laws (e.g. <a href="https://arxiv.org/abs/2403.16952" target="_blank">Ye et al., 2024</a>).
+        </li>
+        <li>
+          <strong>model architecture dependence.</strong> The Cagnetta et al. formula is architecture-independent because it lives in the data-limited regime. But in the model-limited regime, scaling exponents should depend on the architecture's capacity to exploit context; transformers vs. SSMs vs. hybrids should give different exponents. <a href="https://arxiv.org/abs/2402.01092" target="_blank">Bordelon et al.</a> have made progress here with a dynamical theory connecting feature learning to scaling, but a complete picture is still missing.
+        </li>
+        <li>
+          <strong>beyond language.</strong> Scaling laws have been observed for images, video, code, and multimodal models, but the exponents differ across modalities. Can the same theoretical frameworks explain all of them?
+        </li>
+        <li>
+          <strong>downstream performance.</strong> Scaling laws are usually stated for pretraining loss. But what practitioners care about is downstream task performance, which doesn't always track loss in a simple way. The relationship between loss scaling and capability scaling is murky (see the discussion around <a href="https://arxiv.org/abs/2206.07682" target="_blank">Wei et al., 2022</a> on "emergent abilities" and <a href="https://arxiv.org/abs/2304.15004" target="_blank">Schaeffer et al., 2023</a> arguing these are artifacts of metric choice).
+        </li>
+      </ul>
+
+      <h2>Further reading</h2>
+
+      <ul>
+        <li>
+          <a href="https://arxiv.org/abs/2001.08361" target="_blank">Kaplan et al. (2020)</a> &mdash; the original scaling laws paper.
+        </li>
+        <li>
+          <a href="https://arxiv.org/abs/2203.15556" target="_blank">Hoffmann et al. (2022)</a> &mdash; Chinchilla: training compute-optimal large language models.
+        </li>
+        <li>
+          <a href="https://arxiv.org/abs/2407.12768" target="_blank">Cagnetta, Ravent&oacute;s, Ganguli &amp; Wyart (2024)</a> &mdash; deriving scaling exponents from corpus statistics.
+        </li>
+        <li>
+          <a href="https://arxiv.org/abs/2402.01092" target="_blank">Bordelon, Atanasov &amp; Pehlevan (2024)</a> &mdash; a dynamical model of neural scaling laws with feature learning.
+        </li>
+        <li>
+          <a href="https://arxiv.org/abs/2010.14701" target="_blank">Henighan et al. (2020)</a> &mdash; scaling laws across modalities.
+        </li>
+      </ul>
+
+    </div>
+
+  </div>
+</body>
+</html>
