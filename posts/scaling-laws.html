@@ -59,7 +59,9 @@ What's non-obvious is that these improvements follow clean <a href="https://en.w
       </figure>
 
       <p>
-	More specifically (ignoring some batch size details in the paper), they fit three separate power laws for the regime where each factor is the bottleneck and the others are sufficiently large:
+	</br> 
+
+	Ignoring some batch size details in the paper, Kaplen et al. fit three separate power laws for the regime where each factor is the bottleneck and the others are sufficiently large:
       </p>
 
       $$
@@ -93,7 +95,7 @@ What's non-obvious is that these improvements follow clean <a href="https://en.w
         <img src="../images/hoffmann_fig4.png" alt="Hoffmann et al. Figure 4: iso-loss contours and isoFLOP slices showing the efficient frontier" style="max-width: 100%;">
         <figcaption>From Hoffmann et al. (2022), Figure 4. Left: iso-loss contours of the fitted $\hat{L}(N, D)$ in the model size vs. training FLOPs plane. The blue line is the efficient frontier; this is the cheapest way to reach each loss level. The Gopher compute budget is marked with a dashed line, showing that an optimal model at that budget would be ~40B parameters (smaller than Gopher's 280B) trained on more data. Right: isoFLOP slices, where each curve shows loss vs. model size at a fixed compute budget; each curve has a clear minimum, and larger budgets favor larger models.</figcaption>
       </figure>
-
+	</br> 
       <p>
         <b>If you're curious about the derivation</b>: substitute $D = C/(6N)$ into the loss to get $L(N) = E + A N^{-\alpha} + B (6N/C)^{\beta}$. Take the derivative and set it to zero: $\alpha A N^{-\alpha - 1} = \beta B (6/C)^{\beta} N^{\beta - 1}$. Solving for $N$ gives $N^* \propto C^{\beta/(\alpha + \beta)}$, and plugging back in gives $D^* \propto C^{\alpha/(\alpha + \beta)}$. When $\alpha = \beta$, both exponents equal $1/2$ and you get equal scaling. When $\alpha \neq \beta$, the budget tilts toward whichever factor has the larger exponent. This is why Kaplan's asymmetric exponents led to "scale the model" while Chinchilla's symmetric exponents led to "scale both model and data equally."
       </p>
