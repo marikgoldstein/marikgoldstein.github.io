@@ -88,7 +88,7 @@ What's non-obvious is that these improvements follow clean <a href="https://en.w
         where $A$ and $B$ are fitted constants and $E$ is an irreducible loss floor (for NLL this is the entropy of the data, though the precise definition depends on how the loss averages over context positions/lengths). 
 		</p>
 
-		<p> To find the best allocation of a fixed compute budget $C \approx 6ND$, you substitute $D = C/(6N)$ and optimize over $N$. The optimal split depends on the exponents $\alpha$ and $\beta$: if they're roughly equal (as Chinchilla's fits suggest, both around 0.34), you get $N^* \propto C^{0.5}$ and $D^* \propto C^{0.5}$. In other words, this finding says that model size and data should scale equally with compute. This is the "Chinchilla-optimal" allocation, and it implied that many existing large models (e.g. Gopher) were undertrained relative to their size: you could get a better model by training a smaller one on more data. Supposedly, frontier labs took this seriously, and this shaped training decisions for the next generation of models.
+		<p> The compute cost of a single training run is approximately $C \approx 6ND$ (see <a href="#why-6nd">why $6ND$</a> at the bottom of this post). To find the best allocation of a fixed budget $C$, you substitute $D = C/(6N)$ and optimize over $N$. The optimal split depends on the exponents $\alpha$ and $\beta$: if they're roughly equal (as Chinchilla's fits suggest, both around 0.34), you get $N^* \propto C^{0.5}$ and $D^* \propto C^{0.5}$. In other words, this finding says that model size and data should scale equally with compute. This is the "Chinchilla-optimal" allocation, and it implied that many existing large models (e.g. Gopher) were undertrained relative to their size: you could get a better model by training a smaller one on more data. Supposedly, frontier labs took this seriously, and this shaped training decisions for the next generation of models.
       </p>
 
       <figure>
@@ -147,6 +147,28 @@ What's non-obvious is that these improvements follow clean <a href="https://en.w
           <strong>downstream performance.</strong> Scaling laws are usually stated for pretraining loss. But what practitioners care about is downstream task performance, which doesn't always track loss in a simple way. The relationship between loss scaling and capability scaling is murky (see the discussion around <a href="https://arxiv.org/abs/2206.07682" target="_blank">Wei et al., 2022</a> on "emergent abilities" and <a href="https://arxiv.org/abs/2304.15004" target="_blank">Schaeffer et al., 2023</a> arguing these are artifacts of metric choice).
         </li>
       </ul>
+
+      <h2 id="why-6nd">Why $C \approx 6ND$</h2>
+
+      <p>
+        The factor of 6 falls out of counting the floating point operations in a single training step of a dense transformer.
+      </p>
+
+      <p>
+        <b>Forward pass.</b> The cost of a forward pass is dominated by matrix multiplications (the attention projections and the FFN layers). A matrix multiplication of size $(m \times k) \cdot (k \times n)$ takes roughly $2mkn$ FLOPs (one multiply and one add per output element). When you sum this up across all layers, the total comes out to approximately $2N$ FLOPs per token, where $N$ is the parameter count.
+      </p>
+
+      <p>
+        <b>Backward pass.</b> The backward pass costs about $2 \times$ the forward pass, so roughly $4N$ FLOPs per token. The factor of 2 is because you need two matmuls of similar size at each layer: one to get the gradient with respect to the activations (for backpropagation to further layers) and one to get the gradient with respect to the weights (for the parameter update at this layer).
+      </p>
+
+      <p>
+        So the total per token is $2N + 4N = 6N$, and over $D$ tokens the full training cost is $C \approx 6ND$.
+      </p>
+
+      <p>
+        A few caveats: the factor of 6 is an approximation that works well when the parameter count is dominated by the linear projections (attention QKV/output and FFN), which is the case for large dense transformers. It ignores attention score computation, layernorm, softmax, and embedding lookups, but these are a small fraction of total FLOPs for large models. It also assumes a standard dense architecture (for mixture-of-experts models, only a subset of parameters are active per token, so the effective $N$ per token is smaller).
+      </p>
 
       <h2>Further reading</h2>
 
