@@ -131,7 +131,7 @@ What's non-obvious is that these improvements follow clean <a href="https://en.w
 
       <ul>
         <li>
-          <strong>the additive decomposition breaks down.</strong> The $A/N^\alpha + B/D^\beta$ form assumes model and data bottlenecks don't interact. But modern practice often trains well beyond Chinchilla-optimal (Llama-3-8B uses ~2000 tokens per parameter), and in this "overtrained" regime the additive form starts to crack. Feature learning creates interaction terms that the simple decomposition misses.        </li>
+          <strong>the additive decomposition breaks down.</strong> The $A/N^\alpha + B/D^\beta$ form assumes model and data bottlenecks don't interact. But modern practice often trains well beyond Chinchilla-optimal (Llama-3-8B uses ~2000 tokens per parameter), and in this "overtrained" regime the additive form starts to crack. Feature learning (when model weights move meaningfully away from initialization) creates interaction terms that the simple decomposition misses.</li>
         <li>
           <strong>data mixtures.</strong> Real training corpora are heterogeneous (web + code + books + math). Each domain presumably has its own scaling behavior. How do per-domain exponents combine? Nobody has a clean theory here, though there's growing empirical work on data mixing laws (e.g. <a href="https://arxiv.org/abs/2403.16952" target="_blank">Ye et al., 2024</a>).
         </li>
