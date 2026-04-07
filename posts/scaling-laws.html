@@ -122,7 +122,7 @@ What's non-obvious is that these improvements follow clean <a href="https://en.w
       </p>
 
       <p>
-        A recent line of work from Surya Ganguli's group tackles this. <a href="https://arxiv.org/abs/2407.12768" target="_blank">Cagnetta, Ravent&oacute;s, Ganguli &amp; Wyart (2024)</a> derive a formula predicting the data-scaling exponent $\alpha_D$ from two measurable corpus statistics: how fast conditional entropy (of next token given context) decays with context length ($\gamma$), and how fast token correlations decay with lag ($\beta$). The claim is that $\alpha_D = \gamma / (2\beta)$, with no free parameters and no dependence on model architecture. If it holds, you could predict how fast a model will learn from a dataset just by measuring statistical properties of the text before training anything. Here, the statistics serve as intrinsic hardness measures of the data, a way to quantify how much structure a corpus has for a model to exploit. However, a criticism here is that conditional entropy and other types of correlations are notoriously/provably hard to estimate accurately... (i'll try to add some links explaining/proving that here).
+        A recent line of work tackles this. <a href="https://arxiv.org/abs/2602.07488" target="_blank">Cagnetta, Ravent&oacute;s, Ganguli &amp; Wyart (2026)</a> derive a formula predicting the data-scaling exponent $\alpha_D$ from two measurable corpus statistics: how fast conditional entropy (of next token given context) decays with context length ($\gamma$), and how fast token correlations decay with lag ($\beta$). The claim is that $\alpha_D = \gamma / (2\beta)$, with no free parameters and no dependence on model architecture. If it holds, you could predict how fast a model will learn from a dataset just by measuring statistical properties of the text before training anything. Here, the statistics serve as intrinsic hardness measures of the data, a way to quantify how much structure a corpus has for a model to exploit. However, a criticism here is that conditional entropy and other types of correlations are notoriously/provably hard to estimate accurately... (i'll try to add some links explaining/proving that here).
       </p>
 
       <h2>What's still open</h2>
@@ -180,7 +180,7 @@ What's non-obvious is that these improvements follow clean <a href="https://en.w
           <a href="https://arxiv.org/abs/2203.15556" target="_blank">Hoffmann et al. (2022)</a> &mdash; Chinchilla: training compute-optimal large language models.
         </li>
         <li>
-          <a href="https://arxiv.org/abs/2407.12768" target="_blank">Cagnetta, Ravent&oacute;s, Ganguli &amp; Wyart (2024)</a> &mdash; deriving scaling exponents from corpus statistics.
+          <a href="https://arxiv.org/abs/2602.07488" target="_blank">Cagnetta, Ravent&oacute;s, Ganguli &amp; Wyart (2026)</a> &mdash; deriving scaling exponents from corpus statistics.
         </li>
         <li>
           <a href="https://arxiv.org/abs/2402.01092" target="_blank">Bordelon, Atanasov &amp; Pehlevan (2024)</a> &mdash; a dynamical model of neural scaling laws with feature learning.
