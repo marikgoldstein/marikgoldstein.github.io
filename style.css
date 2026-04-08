@@ -370,6 +370,24 @@ nav a:hover {
   color: #333;
 }
 
+/* Photos page */
+.photo-gallery figure {
+  margin: 0 0 32px 0;
+  max-width: 600px;
+}
+
+.photo-gallery img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+.photo-gallery figcaption {
+  font-size: 15px;
+  color: #888;
+  margin-top: 8px;
+}
+
 /* Responsive */
 @media (max-width: 600px) {
   .hero {
